@@ -1,4 +1,4 @@
-# Basic Usage
+# Basic Usage 基本使用
 
 #### How to use MyShell?
 
@@ -8,8 +8,8 @@ You can quickly log in with a Web3 wallet, or easily register with a Web2 accoun
 
 At the same time, a lightweight Demo can also be experienced in the Telegram bot with the most basic question-and-answer function. Currently, the following two Bots can be experienced through Telegram:
 
-* Samantha: [https://t.me/samantha\_x64\_bot](https://t.me/samantha\_x64\_bot)
-* Sherlock: [https://t.me/sherlock\_myshell\_ai\_bot](https://t.me/sherlock\_myshell\_ai\_bot)
+- Samantha: [https://t.me/samantha_x64_bot](https://t.me/samantha_x64_bot)
+- Sherlock: [https://t.me/sherlock_myshell_ai_bot](https://t.me/sherlock_myshell_ai_bot)
 
 #### Registration
 
