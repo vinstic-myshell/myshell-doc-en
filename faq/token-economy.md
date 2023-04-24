@@ -6,4 +6,4 @@ Please refer to [#hui-yuan-deng-ji](../chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-q
 
 #### When will the Token be issued?
 
-We will conduct IDO in the first half of 2023.
+In the first half of 2023, we will conduct an IDO.
