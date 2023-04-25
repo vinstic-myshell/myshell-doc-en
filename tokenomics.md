@@ -44,7 +44,7 @@ Shell Token ($SHET) is the currency used by users and creators to obtain and use
 ### 4.4 Token Use Cases
 
 * Upgrade the robot's subscription level to access more advanced features;
-* Upon completion of certain tasks, can be used to pay for minting new PassCards for sale on the secondary market;
+* Upon completion of certain tasks, can be used to pay for minting new PassCard NFTs for sale on the secondary market;
 * Have the robot pay task rewards to users (when the initial development fund is insufficient and more is needed);
 
 ### 4.5 Shell DAO Revenue Sources

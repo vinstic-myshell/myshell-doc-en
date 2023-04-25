@@ -1,13 +1,13 @@
 # Robot Creative Workshop (TBD)
 
-The Robot Creative Workshop is a fun DIY feature that allows you to create interesting Bots by combining various elements. We encourage everyone to create their own lively and entertaining Bots.
+The Robot Creative Workshop is a fascinating DIY feature, currently only available to users with the Genesis PassCard NFT. You can create interesting Bots by combining the following methods, and we encourage everyone to create their own lively and entertaining Bots.
 
-1. System Prompt: Customize the Bot's role, function, and even personality and behavior patterns.
-2. External Knowledge Base: Equip your Bot with specific knowledge from a variety of sources, such as novels, fan fiction, blogs, project documentation, or any other documents you can think of, which can serve as an external knowledge repository for the robot.
-3. Personalized Voiceprint Cloning: Use 1-5 minutes of audio to clone anyone's voice. (Currently supports a selection of pre-trained TTS, with fast cloning coming soon, but only for English. Other languages are under development).
-4. Nearly unlimited memory storage. (Expected in May)
-5. Internet and API access capabilities. (Expected in June)
-6. More modalities with other models. (Expected in June)
-7. Fine-tuning model training with additional data. (Expected in June)
+1. System Prompt: Customize the role, function, and even personality and behavior patterns of the Bot.
+2. External Knowledge Base: Let the Bot know some specific knowledge, a series of novels and fan fiction, blogs, project Docs, or any document you can think of can be used as an external knowledge reserve for the robot.
+3. Personalized Voiceprint Cloning: Use 1-5 minutes of audio to clone anyone's voice. (Currently supports selecting some pre-trained TTS, fast cloning will be available later, but only supports English, other languages are under development).
+4. Near-infinite memory library. (Estimated May)
+5. Internet and API access capabilities. (Estimated June)
+6. More modalities of other models. (Estimated June)
+7. Fine-tuning model training with additional corpus. (Estimated June)
 
-Ultimately, the customized robot features will gradually evolve into Shell NFTs.
+Creating customized robot behaviors as advanced interactions with the MyShell platform will earn our airdrop (Token). Eventually, the customized robot functions will gradually evolve into Shell NFT, and the Bot creators will receive Shell Tokens from user subscriptions as an economic return.
