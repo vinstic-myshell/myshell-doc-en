@@ -4,11 +4,11 @@
 
 <details>
 
-<summary>Autonomous LLM Model</summary>
+<summary>Self-controlled LLM Model</summary>
 
 Already on the way
 
-Support feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
+Support for feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
 
 Lifetime memory library
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities open, embeddable in any third-party application
+Underlying capabilities are open and can be embedded in any third-party application
 
 </details>
 
@@ -88,7 +88,7 @@ Zero-latency voice conversation experience
 
 <summary>Robot support for other IM software</summary>
 
-MyShell.ai Creative Workshop will support robot deployment to other social platforms, while users can bind their social accounts on the user side. Through the bound social accounts, membership benefits can be extended to robots on social media, with plans to support platforms like Telegram, Discord, etc.
+MyShell.ai's Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts. Through the bound social accounts, membership benefits can be extended to robots on social media, and it is expected to support platforms such as Telegram and Discord.
 
 </details>
 
@@ -176,14 +176,14 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <summary>TTS cost reduction to 3% of competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly broke through the 100,000 mark. We have intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 
 <details>
 
-<summary>First BOT Telegram Samantha launched</summary>
+<summary>First BOT Telegram Samantha goes live</summary>
 
-On 03/07, we launched the first Bot Samantha on Telegram.
+On 03/07, we launched our first Bot Samantha on Telegram.
 
 </details>

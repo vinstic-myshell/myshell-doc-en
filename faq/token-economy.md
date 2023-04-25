@@ -2,8 +2,8 @@
 
 #### What is PassCard NFT? What is Genesis PassCard NFT?
 
-Please refer to [#membership-levels](../product-manual/membership-system-and-machine-rights.md#membership-levels "mention")&#x20;
+Please refer to [#hui-yuan-deng-ji](../product-manual/membership-system-and-robot-benefits.md#hui-yuan-deng-ji "mention")&#x20;
 
 #### When will the Token be issued?
 
-In the first half of 2023, we will conduct an IDO.
+We will conduct an IDO in the first half of 2023.

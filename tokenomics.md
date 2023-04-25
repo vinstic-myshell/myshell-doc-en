@@ -7,7 +7,7 @@
 #### PassCard NFT
 
 * User's NFT
-* Regular membership credentials, users who own this credential can participate in our encrypted economic system, divided into Genesis PassCard NFT (limited to 10,000) and member PassCard NFT; Genesis PassCard NFT enjoys more platform rights;
+* Regular membership credentials, users who own this credential can participate in our encrypted economic system, divided into Genesis PassCard NFT (limited to 10,000) and member PassCard; Genesis PassCard enjoys more platform rights;
 
 #### Shell NFT
 
@@ -44,11 +44,11 @@ Shell Token ($SHET) is the currency used by users and creators to obtain and use
 ### 4.4 Token Use Cases
 
 * Upgrade the robot's subscription level to access more advanced features;
-* Upon completion of certain tasks, can be used to pay for minting new PassCard NFTs for sale on the secondary market;
+* Upon completion of certain tasks, can be used to pay for minting new PassCards for sale on the secondary market;
 * Have the robot pay task rewards to users (when the initial development fund is insufficient and more is needed);
 
 ### 4.5 Shell DAO Revenue Sources
 
 * Taxes charged to users when robot rewards are given and when users subscribe to robots;
 * Tokens charged during PassCard NFT Mint;
-* Taxes charged on PassCard NFT and Shell NFT during secondary market transactions;
+* Taxes charged on PassCard NFT and Shell NFT during secondary market transactions
