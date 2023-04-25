@@ -86,9 +86,9 @@ Zero-latency voice conversation experience
 
 <details>
 
-<summary>Robot support for other IM software</summary>
+<summary>Robot support on other IM software</summary>
 
-MyShell.ai's creative workshop will support robot deployment to other social platforms, and users can bind their social accounts to extend membership benefits to robots on their social media, with plans to support platforms such as Telegram, Discord, etc.
+MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts to extend membership benefits to robots on their social media. It is expected to support platforms like Telegram, Discord, etc.
 
 </details>
 
@@ -98,7 +98,7 @@ MyShell.ai's creative workshop will support robot deployment to other social pla
 
 <summary>TTS emotion control</summary>
 
-BOT's voice will contain richer emotional differences, and this feature will enter the public beta phase in May.
+BOT's voice will contain more diverse emotional differences, and this feature will enter the public beta phase in May.
 
 </details>
 
@@ -176,7 +176,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <summary>TTS cost reduction to 3% of competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model in three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded the 100,000 mark. In just three weeks, we intensively optimized our self-developed TTS model, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 
