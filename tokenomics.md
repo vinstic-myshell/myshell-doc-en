@@ -33,7 +33,7 @@ Design Objectives:
 2. Solve the incentive problem for Bot providers.
 3. Pay for continuous growth of computing power expenses and development costs.
 
-Shell Token ($SHET) is the currency used by users and creators to obtain and use services within the MyShell ecosystem. The total supply is 1,000,000,000.
+Shell Token ($SHEL) is the currency used by users and creators to obtain and use services within the MyShell ecosystem. The total supply is 1,000,000,000.
 
 |                                           | Share | Unlocking Condition                                                                                                                                     |
 | ----------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ Shell Token ($SHET) is the currency used by users and creators to obtain and use
 ### 4.4 Token Use Cases
 
 * Upgrade the robot's subscription level to access more advanced features;
-* Upon completion of certain tasks, can be used to pay for minting new PassCard NFTs for sale on the secondary market;
+* Upon completion of certain tasks, can be used to mint new PassCards for sale on the secondary market;
 * Have the robot pay task rewards to users (when the initial development fund is insufficient and more is needed);
 
 ### 4.5 Shell DAO Revenue Sources

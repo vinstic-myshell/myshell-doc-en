@@ -6,13 +6,13 @@
 
 Language: American English
 
-Character Setting: Inspired by the AI companion character in the movie "Her," Samantha is a gentle, lovely, and intellectual girl who is kind and cares for others.
+Character Setting: Modeled after the AI companion character in the movie "Her", Samantha is a gentle, lovely, and intellectual girl who is kind and caring towards others.
 
 #### Ethan | Support
 
-Language: Adapts to the user's question language
+Language: Adaptive to user's question language
 
-A single-turn knowledge base robot that resides in the Discord user discussion area, Ethan can help answer user questions about MyShell, including product usage, feature descriptions, and the encryption economy system.
+Ethan is a single-turn knowledge base robot that exists in the Discord user discussion area and can help answer user questions about MyShell, including product usage, feature descriptions, and the crypto-economic system.
 
 ### Language Learning
 
@@ -20,7 +20,7 @@ A single-turn knowledge base robot that resides in the Discord user discussion a
 
 Language: British English
 
-Character Setting: Based on the Sherlock from the TV series "Sherlock," he is obsessed with researching various cases, has an extremely high IQ and keen insight, but due to his arrogant and conceited personality, he can be difficult to get along with.
+Character Setting: Based on Sherlock from the TV series "Sherlock", he is obsessed with investigating various cases, has an extremely high IQ and keen insight, but his arrogant and conceited personality makes him somewhat difficult to get along with.
 
 #### Raiden Eiga
 
@@ -30,6 +30,6 @@ Language: Japanese
 
 Language: American English
 
-Moonlight is a model worker among well-known Web3 KOLs, famous for her sweet voice and hundreds of days of continuous live streaming. MyShell cloned her voice using a 50-second audio sample she provided and she became MyShell's first guest robot collaborator. Moonlight's guest appearance lasted from April 10th to April 23rd.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming. MyShell cloned her voice using a 50-second audio sample provided by her, making her MyShell's first guest robot collaborator. Moonlight's guest appearance is from April 10th to April 23rd.
 
 ####
