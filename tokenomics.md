@@ -1,54 +1,46 @@
 # Tokenomics
 
-### Overview
-
 ### NFT
 
-#### PassCard NFT
+#### MyShell Pass NFT
 
-* User's NFT
-* Regular membership credentials, users who own this credential can participate in our encrypted economic system, divided into Genesis PassCard NFT (limited to 10,000) and member PassCard NFT; Genesis PassCard NFT enjoys more platform rights;
+* A regular membership certificate, users with this certificate can participate in our crypto-economic system, divided into MyShell Genesis Pass NFT (limited to 10,000) and MyShell Member Pass NFT; MyShell Genesis Pass NFT enjoys more platform benefits;
 
-#### Shell NFT
+MyShell Pass NFT is an ERC 721 token, its purpose and acquisition methods are as follows.
 
-* NFT for robot creators
-* The concept is inspired by "Ghost in the Shell"
-* Today, with the massive explosion of AI large models, second-layer models, and fine-tuned models, we view each type of model as a Lego block with infinite possibilities for combination and meeting various niche market demands. Additionally, the asset characteristics of consuming computing power to produce value align perfectly with the concept of NFT as an asset container.
-
-Shell NFT and Passcard NFT are ERC 721 tokens, and their purposes and acquisition methods are as follows.
-
-| Type                 | Quantity Limit | Acquisition Method                                                                         | Purpose and Advantages                                                                                      |
-| -------------------- | -------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| Shell NFT            | Unlimited      | Public auction, 1 auction per day                                                          | Manage and organize resources related to robots, subscribers can get Shell Token income                     |
-| Genesis PassCard NFT | 10000          | Airdrop by cooperative communities                                                         | Incentivize users to try new robots, feed data for optimization and iteration, and receive token incentives |
-| Member PassCard NFT  | Unlimited      | Purchase with Shell Token or obtain through building and spreading Shell for the community | Subscribe to different robots, fully experience and utilize various BOT services                            |
+| Type                         | Quantity Limit | Acquisition Method                                     | Usage and Advantages                         |
+| ---------------------------- | -------------- | ------------------------------------------------------ | ------------------------------------------- |
+| MyShell Genesis Pass NFT     | 10000          | Airdrop through cooperative communities                | Incentivize users to try new robots, feed data for optimization iterations, users can get Token incentives |
+| MyShell Member Pass NFT      | Unlimited      | Acquired by consuming Shell Token under certain conditions, or during the process of building and promoting MyShell in the community | Subscribe to different robots, fully experience and utilize various BOT services |
 
 ### Token
 
-#### Shell Token (Temporary)
+#### Shell Token (provisional)
 
-Design Objectives:
+Design objectives:
 
-1. Solve the incentive problem for user growth.
-2. Solve the incentive problem for Bot providers.
-3. Pay for continuous growth of computing power expenses and development costs.
+1. Solve the incentive problem for user growth;
 
-Shell Token ($SHEL) is the currency used by users and creators to obtain and use services within the MyShell ecosystem. The total supply is 1,000,000,000.
+2. Solve the incentive for Bot providers;
 
-|                                           | Share | Unlocking Condition                                                                                                                                     |
-| ----------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Community Mining and Incentives           | 60%   | Used for task incentives provided by robots to users and airdrops for platform task rewards                                                             |
-| Team Development Fund                     | 30%   | Unlocked after 5 years, of which 1% is used to reward the team before the IDO, with the rest issued as monthly salaries without locking                 |
-| Private Placement / IDO / IEO Reservation | 10%   | 5% for private placement TGE, unlocking after 6 months (platform development period), with the remaining 2 years released linearly on a quarterly basis |
+3. Pay for the growing computing power expenses and development costs;
+
+Shell Token ($SHEL) is the currency obtained and used by users and creators in the Myshell ecosystem. The total amount is 1,000,000,000.
+
+|                  | Share | Unlock Conditions                                        |
+| ---------------- | ----- | -------------------------------------------------------- |
+| Community Mining and Incentives | 60%  | For robot-implemented user incentives, platform task reward airdrops |
+| Team Development Fund      | 30%  | Unlocked in 5 years, 1% for rewarding teams before IDO, unlocked in 6 months, the rest is distributed as unlocked monthly salaries |
+| Private Placement / IDO / IEO Reserve | 10%  | Private Placement TGE 5%, unlocking starts in 6 months (platform development period), the remaining 2 years linearly released quarterly |
 
 ### 4.4 Token Use Cases
 
-* Upgrade the robot's subscription level to access more advanced features;
-* Upon completion of certain tasks, can be used to mint new PassCards for sale on the secondary market;
-* Have the robot pay task rewards to users (when the initial development fund is insufficient and more is needed);
+* Upgrade the subscription level of robots to get more advanced features;
+* Under certain conditions, it can be used to pay for minting new MyShell Member Pass NFTs for sale in the secondary market;
+* Robots pay users task rewards (when the initial development fund is insufficient and more is needed);
 
 ### 4.5 Shell DAO Revenue Sources
 
-* Taxes charged to users when robot rewards are given and when users subscribe to robots;
-* Tokens charged during PassCard NFT Mint;
-* Taxes charged on PassCard NFT and Shell NFT during secondary market transactions
+* Taxes collected from robots rewarding users and users subscribing to robots;
+* Token collected during MyShell Pass NFT Mint;
+* Taxes collected during MyShell Pass NFT secondary market transactions;
