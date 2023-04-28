@@ -2,7 +2,7 @@
 
 #### Creating a Study Plan
 
-Currently, there is no study plan available, but considering the AI BOT's powerful capabilities, you can directly ask the Bot to create a study plan for you.
+Currently, there is no study plan available, but given the AI BOT's powerful capabilities, you can directly ask the Bot to create the study plan you want.
 
 For example:
 
