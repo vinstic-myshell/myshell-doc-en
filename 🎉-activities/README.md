@@ -1,3 +1,3 @@
 # 🎉 Activities
 
-Myshell community is successively launching various activities with specific themes, mainly divided into permanent activities and limited-time activities.
+The Myshell community is successively launching various activities with specific themes, mainly divided into permanent activities and limited-time activities.
