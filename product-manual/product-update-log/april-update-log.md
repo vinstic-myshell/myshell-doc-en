@@ -2,30 +2,30 @@
 
 #### 2023/04/29
 
-1. Long press to share conversation changed to share from menu click
+1. Long press share dialog changed to share from menu click
 2. Optimized mobile adaptation
 
 #### 2023/04/28
 
-1. Personal center launched, supporting name and avatar modification, and a more detailed introduction to the membership system
-2. Share conversations with the robot in the form of images, links, or Twitter
-3. Optimized the recent frequent busy issue
+1. Personal center launched, supporting name and avatar modification, more detailed membership system introduction
+2. Share dialogues with the robot in image, link, and Twitter formats
+3. Optimized the frequent busy issue recently
 
 #### 2023/04/20
 
-1. Genesis passcard can now be detected, temporarily increased dialogue count to 50, more benefits to look forward to
+1. Genesis passcard can now be detected, temporarily increased dialogue count to 50, more benefits coming soon
 2. Optimized server stability and security, web version users need to re-login
 
 #### 2023/04/13
 
-1. Optimized Bot's affection level upgrade prompt;
-2. Samantha's voice is more natural, the problem of high pitch in short sentences has been fixed;
+1. Optimized bot's favorability upgrade prompt;
+2. Samantha's voice is more natural, and the high pitch problem in short sentences has been fixed;
 
 #### 2023/04/10
 
-1. Invitation feature launched, and started counting your invitation contributions, effective invitations will bring huge airdrop benefits in the later stage;
-2. User level system started, users who have been invited and those who have invited three effective users can upgrade their robot relationship to lv.1 level;
-3. Web3 famous host, limited-time guest MyShell robot guest, can communicate with her one-on-one, or answer questions about ultiverse.io project for you!
+1. Invitation function launched, and your invitation contributions will be recorded, effective invitations will bring huge airdrop benefits in the future;
+2. User level system activated, users who are invited or invite three valid users can upgrade their robot relationship to lv.1;
+3. Web3 famous host, limited-time guest MyShell robot guest, you can have one-on-one communication with her, or she can answer your questions about ultiverse.io project!
 
 #### 2023/04/08
 
@@ -36,7 +36,7 @@
 
 #### 2023/04/05
 
-Japanese Bot launched, popular character from "Genshin Impact", our Inazuma ruler #Raiden Shogun# officially arrived!
+Japanese Bot launched, popular character from "Genshin Impact", our Inazuma ruler #Raiden Shogun# has arrived!
 
 #### 2023/04/02
 
@@ -45,4 +45,4 @@ Features:
 1. New bot Sherlock added, supporting multi-bot switching
 2. Voice/text input interaction optimization
 3. Message list UI/interaction optimization
-4. Optimized message response speed and quality
+4. Optimized message reply speed and quality
