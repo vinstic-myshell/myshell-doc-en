@@ -4,6 +4,6 @@
 
 Please refer to [#glossary](../product-manual/membership-system-and-robot-benefits.md#glossary "mention")
 
-#### When will the Token be released?
+#### When will the Token be issued?
 
 In the first half of 2023, we will conduct an IDO.

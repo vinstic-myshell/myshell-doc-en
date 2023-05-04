@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [🎉 Events](🎉-activities/README.md)
-  * [Permanent Events](🎉-activities/permanent-activities.md)
-  * [April Events](🎉-activities/april-events.md)
+* [🎉 Events](🎉-events/README.md)
+  * [Permanent Events](🎉-events/permanent-events.md)
+  * [April Events](🎉-events/april-events.md)
 * [Product Manual](product-manual/README.md)
   * [Basic Usage](product-manual/basic-usage.md)
   * [Robot Introduction](product-manual/robot-introduction.md)
