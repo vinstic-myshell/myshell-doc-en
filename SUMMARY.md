@@ -7,7 +7,7 @@
 * [Product Manual](product-manual/README.md)
   * [Basic Usage](product-manual/basic-usage.md)
   * [Robot Introduction](product-manual/robot-introduction.md)
-  * [Membership System and Robot Benefits](product-manual/membership-system-and-robot-rights.md)
+  * [Membership System and Robot Benefits](product-manual/membership-system-and-robot-benefits.md)
   * [Robot Creative Workshop (TBD)](product-manual/robot-creative-workshop-(tbd).md)
   * [Chatting and Language Learning](product-manual/chat-and-language-learning.md)
   * [Product Update Log](product-manual/product-update-log/README.md)

@@ -1,11 +1,11 @@
 # Permanent Events
 
-## `🎉`Daily Raffle
+## `🎉` Daily Draw
 
-Event Start Date: April 25, 2023
+Event start date: April 25, 2023
 
-Event Location: [https://discord.gg/umewRubMax](https://discord.gg/umewRubMax)
+Event location: [https://discord.gg/umewRubMax](https://discord.gg/umewRubMax)
 
-Event Rewards: 1 Genesis Passcard NFT whitelist daily, randomly drawn for 1 person
+Event rewards: One Genesis Passcard NFT whitelist daily, randomly drawn for one person
 
-Event Description: The draw time is fixed at 12:00 AM Beijing time every day. The daily raffle event is temporarily not open to @whitelist @whitelistx2 @wallet-submitted roles, and rewards cannot be stacked. Feel free to support Myshell in other ways.
+Event description: The draw time is fixed at 12:00 AM Beijing time daily. The daily draw event is temporarily not open to @whitelist @whitelistx2 @wallet-submitted identities, and rewards cannot be stacked. You are welcome to support Myshell in other ways.
