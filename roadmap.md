@@ -8,9 +8,9 @@
 
 Already on the way
 
-Support feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
+Support for feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
 
-Lifetime memory library
+Lifetime Memory Library
 
 Internet connection and API access capabilities!
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities are open and can be embedded in any third-party application
+Underlying capabilities open, embeddable in any third-party application
 
 </details>
 
@@ -78,9 +78,9 @@ Zero-latency voice conversation experience
 
 <details>
 
-<summary>Robot support for use in other IM software</summary>
+<summary>Robot support for other IM software</summary>
 
-MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind social accounts to extend membership benefits to robots on their social media. It is expected to support platforms such as Telegram, Discord, etc.
+MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts. Through the bound social accounts, membership benefits can be extended to robots on social media, with plans to support platforms like Telegram and Discord.
 
 </details>
 
@@ -90,7 +90,7 @@ MyShell.ai Creative Workshop will support robot deployment to other social platf
 
 <summary>TTS Emotion Control</summary>
 
-BOT's voice will contain more diverse emotional differences, and this feature will enter the public testing phase in May.
+BOT's voice will contain richer emotional differences, and this feature will enter the public testing phase in May.
 
 </details>
 
@@ -130,7 +130,7 @@ BOT's voice will contain more diverse emotional differences, and this feature wi
 
 <details>
 
-<summary>Robot Peripheral</summary>
+<summary>Robot Peripherals</summary>
 
 * Twitter space AMA bot
 * KOL bot
@@ -168,7 +168,7 @@ BOT's voice will contain more diverse emotional differences, and this feature wi
 
 <summary>TTS Cost Reduction to 3% of Competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In just three weeks, we intensively optimized our in-house TTS model, reducing costs by 97% compared to Microsoft's TTS API, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 
