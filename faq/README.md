@@ -1,25 +1,21 @@
 ## Frequently Asked Questions
 
-### Q1: What is the purpose of this project?
+### Q1: What should I do if I encounter a **domain noun**?
 
-**A1**: The purpose of this project is to provide an easy-to-use platform for users to access and share information related to the domain. We aim to create a comprehensive resource that can be used by both beginners and experts in the field.
+A1: If you come across a domain noun that you are not familiar with, please leave it in its original English form.
 
-### Q2: How do I get started with the platform?
+### Q2: How do I retain the original format of the text?
 
-**A2**: To get started, simply create an account and log in. Once you've logged in, you can browse the available resources, contribute to the community by sharing your own knowledge, and engage in discussions with other users.
+A2: If the original text is in markdown or HTML, make sure to keep the same formatting when translating into English. This includes preserving headers, lists, bold and italic text, and any other formatting elements.
 
-### Q3: What are the guidelines for contributing content?
+### Q3: Should I translate the English text within the original text?
 
-**A3**: When contributing content, please ensure that it is relevant to the domain, accurate, and respectful of others. Additionally, please ensure that you have the appropriate permissions to share any copyrighted material.
+A3: If you encounter any English words or phrases within the original text, you can leave them as they are, without translating them.
 
-### Q4: Can I edit or delete my contributions?
+### Q4: Are there any specific requirements for translating unusual nouns?
 
-**A4**: Yes, you can edit or delete your contributions at any time by accessing your account settings and navigating to the appropriate section.
+A4: If you come across any unusual or domain-specific nouns written in English that you are not familiar with, please leave them in their original form.
 
-### Q5: How can I report inappropriate content or behavior?
+### Q5: Should I export any Chinese text?
 
-**A5**: If you encounter any inappropriate content or behavior, please report it to the site administrators using the "Report" feature or by contacting us directly via email.
-
-### Q6: What if I have questions or need assistance?
-
-**A6**: If you have any questions or need assistance, please feel free to reach out to the community through the platform's discussion forums, or contact the site administrators directly via email.
+A5: No, please do not export any Chinese text during the translation process.

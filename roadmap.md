@@ -8,7 +8,7 @@
 
 Already on the way
 
-Support for feeding your own fine-tuning corpus, making your BOT fully in line with your expectations🤗
+Support for feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
 
 Lifetime memory library
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities open, can be embedded in any third-party application
+Underlying capabilities open, embeddable in any third-party application
 
 </details>
 
@@ -38,7 +38,7 @@ Underlying capabilities open, can be embedded in any third-party application
 
 <summary>Streaming Support</summary>
 
-Zero-latency voice conversation experience
+Zero-latency voice dialogue experience
 
 </details>
 
@@ -80,7 +80,7 @@ Zero-latency voice conversation experience
 
 <summary>Robot support for other IM software</summary>
 
-MyShell.ai Creative Workshop will support robot deployment to other social platforms, while user-side binding of social accounts, through the bound social account, can extend membership benefits to the robot on social media, expected to support Telegram, Discord and other platforms
+MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts to extend membership benefits to robots on their social media. It is expected to support platforms such as Telegram and Discord.
 
 </details>
 
@@ -90,7 +90,7 @@ MyShell.ai Creative Workshop will support robot deployment to other social platf
 
 <summary>TTS Emotion Control</summary>
 
-BOT's voice will contain richer emotional differences, this feature will enter the public testing phase in May.
+BOT's voice will contain richer emotional differences, and this feature will enter the public testing phase in May.
 
 </details>
 
@@ -168,7 +168,7 @@ BOT's voice will contain richer emotional differences, this feature will enter t
 
 <summary>TTS Cost Reduction to 3% of Competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly broke through the 100,000 mark. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly broke through the 100,000 mark. We intensively optimized our self-developed TTS model in three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 

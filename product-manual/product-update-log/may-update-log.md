@@ -1,15 +1,17 @@
 # May Update Log
 
-### 20230504 v3.1&#x20;
+### 20230507 Update Log
 
-Product interaction framework update: Adopted the most familiar IM features to everyone - chat, list, personal center, a robot's IM, super cool!&#x20;
+* Optimize chat, voice auto-play, conversation sharing, and other experiences
+* Optimize mobile adaptation, reduce crashes, white screens, and other issues
 
-Robot Workshop officially launched: Support for name, avatar, introduction, system prompt words, and TTS selection; In the next week, we will gradually support powerful features such as custom chat functions and knowledge base access!&#x20;
+### 20230504 v3.1
 
-Membership system update: Divided into ordinary and Genesis, each with 5 levels; Genesis Pass will focus on robot creation rights, and a limited-time free trial will be available soon, allowing all users above level 2 to enjoy all level 5 features!&#x20;
+* Robot Workshop officially launched: supports name, avatar, introduction, system prompt words, TTS selection; in the coming week, we will gradually support powerful features such as custom chat functions, knowledge base access, etc.!
+* Product interaction framework update: adopts the most familiar IM features - chat, list, personal center, an IM for a robot, super cool!
+* Membership system update: divided into ordinary and Genesis, with 5 levels each, Genesis Pass will focus on robot creation rights, a limited-time free trial will be available soon, and all users above level 2 can enjoy all level 5 features!
+* Support for Telegram binding: this is a new attempt across platforms and apps, the future web version can bind various app endpoints and enjoy the same membership benefits on different platforms.
 
-Support for Telegram binding: This is a new attempt across platforms and apps, and the future web version can bind apps from various platforms and enjoy the same membership benefits on different platforms.
+### 20230503
 
-### 20230503&#x20;
-
-@Ethan | Support is now available, which is a further upgrade to our workshop's knowledge base capabilities, surpassing other knowledge base capabilities we know on the market. This BOT can obtain detailed information from documents and inform users of the source of the answer. It is a single-turn dialogue robot, and you can answer questions in the MyShell project by @ it in DC. In the next few days, the same knowledge base component capabilities will also be launched in the MyShell robot creation workshop for your own BOT!
+@Ethan | Support is now available, this is our further upgrade to the knowledge base capabilities in the workshop, its capabilities surpass other knowledge bases we know of in the market. This BOT can obtain detailed information from documents and inform users of the source of the answer. This is a single-round dialogue robot, you can answer questions in MyShell project by @ it in DC. In the next few days, the same knowledge base component with the same capabilities will also be launched in MyShell's robot creation workshop for your own BOT!

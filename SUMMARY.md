@@ -9,7 +9,7 @@
   * [Robot Introduction](product-manual/robot-introduction.md)
   * [Membership System and Robot Benefits](product-manual/membership-system-and-robot-benefits.md)
   * [Robot Creative Workshop (TBD)](product-manual/robot-creative-workshop-(tbd).md)
-  * [Chat and Language Learning](product-manual/chat-and-language-learning.md)
+  * [Chat and Language Learning](product-manual/chatting-and-language-learning.md)
   * [Product Update Log](product-manual/product-update-log/README.md)
     * [May Update Log](product-manual/product-update-log/may-update-log.md)
     * [April Update Log](product-manual/product-update-log/april-update-log.md)
