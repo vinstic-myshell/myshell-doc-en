@@ -10,7 +10,7 @@ Already on the way
 
 Support feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
 
-Lifetime memory repository
+Lifetime memory bank
 
 Internet connection and API access capabilities!
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities are open and can be embedded in any third-party application
+Underlying capabilities open, can be embedded in any third-party applications
 
 </details>
 
@@ -38,7 +38,7 @@ Underlying capabilities are open and can be embedded in any third-party applicat
 
 <summary>Streaming Support</summary>
 
-No-latency voice conversation experience
+Zero-latency voice conversation experience
 
 </details>
 
@@ -78,9 +78,9 @@ No-latency voice conversation experience
 
 <details>
 
-<summary>Robot support for use in other IM software</summary>
+<summary>Robot support for other IM software</summary>
 
-MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts. Through the bound social accounts, member benefits can be extended to robots on social media. It is expected to support platforms such as Telegram and Discord.
+MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts. Through the bound social accounts, member benefits can be extended to robots on social media, with plans to support platforms like Telegram and Discord.
 
 </details>
 
@@ -168,7 +168,7 @@ BOT's voice will contain richer emotional differences. This feature will enter t
 
 <summary>TTS Cost Reduction to 3% of Competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In three weeks, we intensively optimized our self-developed TTS model, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 

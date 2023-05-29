@@ -6,4 +6,4 @@ Please refer to [#glossary](../product-manual/membership-system-and-robot-rights
 
 #### When will the Token be issued?
 
-We will conduct an IDO in the first half of 2023.
+In the first half of 2023, we will conduct an IDO.
