@@ -1,45 +1,49 @@
 ## Frequently Asked Questions
 
-### General Questions
+### Question 1
 
-1. **What is the purpose of this project?**
+**Original Text:** 
 
-   The main goal of this project is to provide a platform for users to access and share valuable information and resources.
+> 这个产品支持哪些操作系统？
+> * Windows 10
+> * macOS
+> * Linux
 
-2. **How can I contribute to the project?**
+**Translated Text:**
 
-   You can contribute by submitting your ideas, suggestions, or feedback through our online forum or by contacting our support team.
+> Which operating systems does this product support?
+> * Windows 10
+> * macOS
+> * Linux
 
-3. **Are there any prerequisites for using this platform?**
+### Question 2
 
-   There are no specific prerequisites for using this platform. However, a basic understanding of the domain and familiarity with the tools and resources available would be beneficial.
+**Original Text:** 
 
-### Technical Questions
+> 如何安装软件？
+> 1. 下载安装包
+> 2. 双击运行安装程序
+> 3. 按照提示完成安装
 
-1. **What are the system requirements for using this platform?**
+**Translated Text:**
 
-   The platform is designed to be compatible with most modern web browsers and operating systems. It is recommended to have a stable internet connection for optimal performance.
+> How to install the software?
+> 1. Download the installation package
+> 2. Double-click to run the installer
+> 3. Follow the prompts to complete the installation
 
-2. **How do I report a bug or technical issue?**
+### Question 3
 
-   You can report any bugs or technical issues through our support forum or by contacting our support team directly.
+**Original Text:** 
 
-3. **Can I use the platform on my mobile device?**
+> 软件有哪些功能？
+> - 文件管理
+> - 文本编辑
+> - 图像处理
 
-   Yes, the platform is designed to be responsive and compatible with mobile devices, including smartphones and tablets.
+**Translated Text:**
 
-### Account and Privacy
-
-1. **How do I create an account?**
-
-   To create an account, simply click on the "Sign Up" button on the homepage and follow the prompts to complete the registration process.
-
-2. **What is your privacy policy?**
-
-   We take user privacy very seriously and are committed to protecting your personal information. You can review our full privacy policy [here](https://www.example.com/privacy-policy).
-
-3. **How do I delete my account?**
-
-   If you wish to delete your account, please contact our support team, and they will assist you with the process.
-
-If you have any further questions or require assistance, please do not hesitate to contact our support team.
+> What features does the software have?
+> - File management
+> - Text editing
+> - Image processing

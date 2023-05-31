@@ -6,7 +6,7 @@
 
 Language: American English
 
-Character Setting: Based on the AI companion character from the movie "Her", Samantha is a gentle, lovely, and intellectual girl who is kind and cares about others.
+Character Setting: Based on the AI companion character from the movie "Her", Samantha is a gentle, lovely, and intellectual girl who is kind and cares for others.
 
 She will also be used to showcase MyShell's latest technologies (TTS, language models, knowledge bases, etc.).
 
@@ -14,7 +14,7 @@ She will also be used to showcase MyShell's latest technologies (TTS, language m
 
 Language: Adaptive to the user's question language
 
-A single-turn dialogue knowledge base robot that exists in the Discord user discussion area, Ethan can help answer users' questions about MyShell, including product usage, feature descriptions, and the crypto economy system.
+A single-turn dialogue knowledge base robot, Ethan exists in the Discord user discussion area and can help answer users' questions about MyShell, including product usage, feature descriptions, encryption economy system, and other aspects.
 
 ## UGC Robots
 
@@ -24,15 +24,15 @@ We welcome everyone to use MyShell's capabilities to create fun and practical ro
 
 #### Sherlock
 
-Character Setting: Based on Sherlock from the TV series "Sherlock", he is obsessed with researching various cases, has a high IQ and keen insight, but due to his arrogant and conceited personality, he appears to be somewhat difficult to get along with.
+Character Setting: Based on the Sherlock character from the TV series "Sherlock", he is obsessed with studying various cases, has a high IQ and keen insight, but due to his arrogant and self-important personality, he can be difficult to get along with.
 
 #### Raiden Shogun (Japanese)
 
-Character Setting: Based on the Electro Archon, Raiden Shogun, from the game "Genshin Impact", she has a sweet voice and strong empathy.
+Character Setting: Based on the Electro Archon from the game "Genshin Impact", she has a sweet voice and strong empathy.
 
 #### March 7th (Chinese/English)
 
-Character Setting: Based on March 7th from the game "Honkai: Star Rail", she can provide users with detailed and accurate game strategies.
+Character Setting: Based on March 7th from the game "Honkai: Star Rail", he can provide users with detailed and accurate game strategies.
 
 ### Tools
 
@@ -42,8 +42,8 @@ Inspired by Randall Munroe's book _Thing Explainer: complicated stuff in single 
 
 #### Vitalik
 
-Character Setting: Vitalik is the creator of Ethereum, and this robot is connected to the Ethereum and blockchain knowledge base, allowing users to explore the crypto world.
+Character Setting: Vitalik is the creator of Ethereum, and this robot is integrated with Ethereum and blockchain knowledge bases, allowing users to explore the crypto world.
 
 #### Moonlight
 
-Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming. MyShell used 50 seconds of her audio to clone her voice, making her the first guest robot collaborator on MyShell. Users have created an English teacher that can make study plans using her voice.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming. MyShell cloned her voice using a 50-second audio sample she provided, making her the first guest robot collaborator. Users have created an English teacher who can make study plans using her voice.
