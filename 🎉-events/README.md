@@ -1,3 +1,3 @@
 # 🎉 Events
 
-Myshell community is gradually launching various events with specific themes, mainly divided into permanent events and limited-time events.
+Myshell community is gradually launching various specific theme events, mainly divided into permanent events and limited-time events.

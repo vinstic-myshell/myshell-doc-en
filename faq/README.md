@@ -1,49 +1,37 @@
 ## Frequently Asked Questions
 
-### Question 1
+### Q1: How do I install the software?
 
-**Original Text:** 
+To install the software, follow these steps:
 
-> 这个产品支持哪些操作系统？
-> * Windows 10
-> * macOS
-> * Linux
+1. Download the installation package from the official website.
+2. Double-click the downloaded file to start the installation process.
+3. Follow the on-screen instructions to complete the installation.
 
-**Translated Text:**
+### Q2: What are the system requirements for the software?
 
-> Which operating systems does this product support?
-> * Windows 10
-> * macOS
-> * Linux
+The software requires the following system specifications:
 
-### Question 2
+- Operating System: Windows 7/8/10, macOS 10.12 or later, or Linux
+- Processor: Intel Core i3 or equivalent
+- Memory: 4GB RAM
+- Graphics: NVIDIA GeForce GTX 750 or equivalent
+- Storage: 1GB available space
 
-**Original Text:** 
+### Q3: How do I update the software?
 
-> 如何安装软件？
-> 1. 下载安装包
-> 2. 双击运行安装程序
-> 3. 按照提示完成安装
+To update the software, follow these steps:
 
-**Translated Text:**
+1. Open the software and go to the "Help" menu.
+2. Select "Check for Updates" and wait for the software to search for available updates.
+3. If an update is available, follow the on-screen instructions to download and install the update.
 
-> How to install the software?
-> 1. Download the installation package
-> 2. Double-click to run the installer
-> 3. Follow the prompts to complete the installation
+### Q4: How do I contact customer support?
 
-### Question 3
+You can contact our customer support team by:
 
-**Original Text:** 
+- Email: support@example.com
+- Phone: +1-800-123-4567
+- Live chat: Visit our website and click on the "Chat with us" button.
 
-> 软件有哪些功能？
-> - 文件管理
-> - 文本编辑
-> - 图像处理
-
-**Translated Text:**
-
-> What features does the software have?
-> - File management
-> - Text editing
-> - Image processing
+Our support team is available 24/7 to assist you with any questions or concerns.
