@@ -8,9 +8,9 @@
 
 Already on the way
 
-Support for feeding your own fine-tuning corpus, making your BOT completely meet your expectations🤗
+Support feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
 
-Lifetime memory storage
+Lifetime memory library
 
 Internet connection and API access capabilities!
 
@@ -38,7 +38,7 @@ Underlying capabilities open, can be embedded in any third-party application
 
 <summary>Streaming Support</summary>
 
-Zero-latency voice conversation experience
+Low-latency voice conversation experience
 
 </details>
 
@@ -78,9 +78,9 @@ Zero-latency voice conversation experience
 
 <details>
 
-<summary>Robot support for other IM software usage</summary>
+<summary>Robot Support for Use in Other IM Software</summary>
 
-MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts. Through the bound social account, the membership benefits can be extended to the robot on their social media, which is expected to support platforms such as Telegram and Discord.
+MyShell.ai's Creative Workshop will support robot deployment to other social platforms, while users can bind their social accounts, and through the bound social accounts, they can extend their membership benefits to the robots on their social media. It is expected to support platforms such as Telegram and Discord.
 
 </details>
 
@@ -166,15 +166,15 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <details>
 
-<summary>TTS cost reduction to 3% of competitors</summary>
+<summary>TTS Cost Reduction to 3% of Competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In just three weeks, we intensively optimized our self-developed TTS model, reducing its cost by 97% compared to Microsoft's TTS API cost and supporting fast cloning of 1-5 minute voice samples.
 
 </details>
 
 <details>
 
-<summary>First BOT Telegram Samantha goes live</summary>
+<summary>First BOT Telegram Samantha Launched</summary>
 
 On 03/07, we launched our first Bot Samantha on Telegram.
 
