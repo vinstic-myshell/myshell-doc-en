@@ -8,7 +8,7 @@
 
 Already on the way
 
-Support feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
+Support for feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
 
 Lifetime memory library
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities open, can be embedded in any third-party application
+Underlying capabilities are open and can be embedded in any third-party application
 
 </details>
 
@@ -38,7 +38,7 @@ Underlying capabilities open, can be embedded in any third-party application
 
 <summary>Streaming Support</summary>
 
-Low-latency voice conversation experience
+Zero-latency voice conversation experience
 
 </details>
 
@@ -78,9 +78,9 @@ Low-latency voice conversation experience
 
 <details>
 
-<summary>Robot Support for Use in Other IM Software</summary>
+<summary>Robot support for use in other IM software</summary>
 
-MyShell.ai's Creative Workshop will support robot deployment to other social platforms, while users can bind their social accounts, and through the bound social accounts, they can extend their membership benefits to the robots on their social media. It is expected to support platforms such as Telegram and Discord.
+MyShell.ai Creative Workshop will support robot deployment to other social platforms, and users can bind social accounts on the user side. Through the bound social accounts, membership benefits can be extended to robots on social media. It is expected to support platforms such as Telegram and Discord.
 
 </details>
 
@@ -88,9 +88,9 @@ MyShell.ai's Creative Workshop will support robot deployment to other social pla
 
 <details>
 
-<summary>TTS Emotion Control</summary>
+<summary>TTS Emotional Control</summary>
 
-BOT's voice will contain richer emotional differences, and this feature will enter the public testing phase in May.
+BOT's voice will contain more diverse emotional differences. This feature will enter the public testing phase in May.
 
 </details>
 
@@ -168,7 +168,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <summary>TTS Cost Reduction to 3% of Competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In just three weeks, we intensively optimized our self-developed TTS model, reducing its cost by 97% compared to Microsoft's TTS API cost and supporting fast cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In three weeks, we intensively optimized our in-house TTS model, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 
@@ -176,6 +176,6 @@ With the influx of users, our daily voice interaction volume quickly exceeded 10
 
 <summary>First BOT Telegram Samantha Launched</summary>
 
-On 03/07, we launched our first Bot Samantha on Telegram.
+On 03/07, we launched the first Bot Samantha on Telegram.
 
 </details>
