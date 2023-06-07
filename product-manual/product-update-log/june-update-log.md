@@ -2,10 +2,10 @@
 
 ### 20230607
 
-* Support for trying out as a guest, even without logging in, you can get 10 power, further lowering the threshold for inviting new users!
+* Support for trial use as a guest, you can get 10 energy even without logging in, making it even easier to invite new users!
 * New UI revision in progress...
 
 ### 20230601
 
-* Robot Workshop supports filtering bots with Telegram now!
-* At the same time, the robot details page can directly see the corresponding Telegram Bot's name, with a link to jump directly!
+* Robot Workshop now supports filtering bots with Telegram!
+* Also, the robot details page shows the corresponding Telegram Bot's name, along with a link for direct access!
