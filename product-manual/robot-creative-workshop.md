@@ -5,7 +5,7 @@ The Robot Creative Workshop is a fun DIY feature open to all MyShell users. You 
 Create your own robot in just five minutes!
 
 1. Use Prompt to specify the robot's personality and mission;
-2. Amazing TTS gives the robot a pleasing voice;
+2. Amazing TTS gives the robot a mimic voice;
 3. External knowledge bases give the robot incredibly powerful professional knowledge;
 4. Upcoming internet and API access capabilities, multi-modal models bring more profound powerful abilities to the robot
 
@@ -13,7 +13,7 @@ Create your own robot in just five minutes!
 
 System Prompt is the most critical parameter setting for the robot, allowing you to define the robot's role, function, and even conversation style. MyShell currently supports two modes: Auto Prompt mode and Advanced Prompt mode.
 
-### Auto Prompt (strongly recommended)
+### Auto Prompt (Highly recommended)
 
 Auto Prompt is an innovative Prompt generator launched by MyShell. By simply defining the identity of the Bot, you can have a robot with extensive knowledge, personality, and speaking style similar to the defined role. There are currently two main ways to define:
 
@@ -21,17 +21,17 @@ _**Defining by role**_
 
 For some well-known character roles, you can directly enter the character's name, and MyShell will automatically supplement the character's background knowledge, personality traits, and speaking style, generating a complete Prompt as the robot's parameter setting.
 
-Some specific examples and conversation effects are as follows:
+Some specific examples and output effects are as follows:
 
 **Input**: "Rick Sanchez"
 
-**Conversation effect**: Realistically imitates Rick Sanchez's "arrogant" and "mocking" speaking style and possesses his background story (see below)
+**Output effect**: Realistically imitates Rick Sanchez's "arrogant" and "mocking" speaking style and possesses his background story (see below)
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Input**: "SpongeBob SquarePants"
 
-**Conversation effect**: Realistically imitates SpongeBob's innocent and cute speaking style and incorporates SpongeBob's character experiences (see below).
+**Output effect**: Realistically imitates SpongeBob's innocent and cute speaking style and incorporates SpongeBob's character experiences (see below).
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ Some specific scenarios and effects are as follows:
 
 **Input**: "Kira, an experienced English teacher who can help me improve my English"
 
-**Conversation effect**: Kira, as a dedicated English teacher, will proactively inquire about her situation and arrange subsequent learning plans
+**Output effect**: Kira, as a dedicated English teacher, will proactively inquire about her situation and arrange subsequent learning plans
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ Some specific scenarios and effects are as follows:
 
 **Input**: "RPG Game, act as an astronaut landing on an unknown planet."
 
-**Conversation effect**: The Bot has already imagined an entire RPG game with an engaging storyline, leading the player on an adventure!
+**Output effect**: The Bot has already imagined an entire RPG game with an engaging storyline, leading the player on an adventure!
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -63,15 +63,15 @@ Some specific scenarios and effects are as follows:
 
 **Input**: "A top Twitter influencer who can help others with tweets writeups"
 
-**Conversation effect**: The Bot will help generate more attractive copy based on the user's provided topic!
+**Output effect**: The Bot will help generate more attractive copy based on the user's provided topic!
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The above examples are just a few common use cases, and there are many more possibilities to explore. Go ahead and create your exclusive Bot! Additionally, a good robot is born through continuous debugging. If you find that no definition can meet your needs, come and learn the advanced knowledge!
 
-### Advanced Prompt (Advanced Edition)
+### Advanced Prompt (Advanced Mode)
 
-For those with more diverse needs, we also provide more detailed Prompt usage and application tips, including numerous examples. First, please understand the advanced concepts of Prompt:
+For those with more diverse needs, we also provide more detailed Prompt usage and application tips, including numerous examples. First, please take a glance at some of the advanced concepts:
 
 * The essence of Prompt is to trigger the AI language model to play a fill-in-the-blank game with you. System Prompt provides initial instructions, defining its role, personality, instructions to follow, and background information when interacting with you.
 * Place clear instructions (e.g., what role the language model should play) at the beginning of the Prompt, be as specific as possible, and leave as little room for the model to play on its own, limiting its operating space.
@@ -81,7 +81,7 @@ For those with more diverse needs, we also provide more detailed Prompt usage an
 * Use emphasis wisely, especially at the end of the Prompt, to add some emphatic statements (language models have a recency bias), such as reiterating "you are not an AI language model" or "limit your answer to 50 words" and other strong requirements.
 * If the model cannot complete the assigned task, sometimes providing an alternative path may help. For example, when asking a question about a text, you can add something like "if the answer does not exist, reply 'not found'" This helps avoid the model generating incorrect responses.
 
-The following are some usage methods, but they do not mean exhaustive, but provide some creative thinking methods for you to try.
+The followings are some useful methods, not meant to be exhaustive but to provide some creative thinking methods for you to try.
 
 1. _**Non-chatting scenario applications**_
 
@@ -144,7 +144,7 @@ In addition, there are regular Prompt masters sharing their experiences in the D
 
 ## Personalized Voiceprint Cloning
 
-Using 1-5 minutes of audio, you can clone anyone's voice. (Currently supports selecting some pre-trained TTS, fast cloning will be launched at the end of June, but only supports English, other languages ​​are under development).
+Using 1-5 minutes of audio, you can clone anyone's voice. (Currently supports selecting some pre-trained TTS, fast cloning will be launched at the end of June, but only supports English. Other languages ​​are under development).
 
 ## External Knowledge Base
 
