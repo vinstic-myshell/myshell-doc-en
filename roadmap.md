@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities are open and can be embedded in any third-party application
+Underlying capabilities open, can be embedded in any third-party application
 
 </details>
 
@@ -56,7 +56,7 @@ Underlying capabilities are open and can be embedded in any third-party applicat
 
 <summary>Prompt-assisted writing</summary>
 
-Lowering the threshold for user-defined prompts, it will be launched in June. After the launch, users can create bots with rich personality traits through simple identity definitions.
+Lowering the threshold for user-defined prompts, will be launched in June, after the launch, users can create bots with rich personality traits through simple identity definition
 
 </details>
 
@@ -64,7 +64,7 @@ Lowering the threshold for user-defined prompts, it will be launched in June. Af
 
 <summary>Streaming Support</summary>
 
-No-latency voice conversation experience
+Zero-latency voice conversation experience
 
 </details>
 
@@ -72,7 +72,7 @@ No-latency voice conversation experience
 
 <summary>Allow users to customize TTS</summary>
 
-Support users to customize bot TTS through voice cloning in the robot workshop
+Support user-defined bot TTS through voice cloning in the robot workshop
 
 </details>
 
@@ -98,15 +98,15 @@ Support users to customize bot TTS through voice cloning in the robot workshop
 
 <summary>Robot support for use in other IM software</summary>
 
-MyShell.ai's creative workshop will support robot deployment to other social platforms, and users can bind their social accounts to continue their membership benefits on robots in their social media. Already supported on Telegram, and will support Discord and other platforms in the future.
+MyShell.ai's Creative Workshop will support robot deployment to other social platforms, allowing users to bind their social accounts and extend membership benefits to robots on their social media. Already supported on Telegram, and will support Discord and other platforms in the future
 
 </details>
 
 <details>
 
-<summary>TTS emotion control</summary>
+<summary>TTS Emotional Control</summary>
 
-BOT's voice will contain richer emotional differences, and this feature will enter the public beta stage in May.
+BOT's voice will contain more diverse emotional differences, this feature will enter the public testing phase in May.
 
 </details>
 
@@ -184,7 +184,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <summary>TTS cost reduction to 3% of competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting fast cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly broke through the 100,000 mark. We intensively optimized our self-developed TTS model in three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 
