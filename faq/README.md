@@ -1,26 +1,35 @@
 ## Frequently Asked Questions
 
-### Q1: What is the purpose of this project?
+### Question 1
 
-A1: The purpose of this project is to provide a user-friendly platform for users to access information, resources, and tools related to a specific domain. Our goal is to create a comprehensive and easy-to-navigate website that caters to the needs of our target audience.
+**Original Text:** 这个产品的主要功能是什么？
 
-### Q2: How do I get started with using this platform?
+**Translation:** What are the main features of this product?
 
-A2: To get started, simply create an account by clicking on the "Sign Up" button on the homepage. Once you've registered, you can log in and start exploring the various features and tools available on our platform.
+### Question 2
 
-### Q3: What are some of the key features of this platform?
+**Original Text:** `<p>如何安装和使用这个软件？</p>`
 
-A3: Some of the key features of our platform include:
+**Translation:** `<p>How to install and use this software?</p>`
 
-- A vast repository of domain-specific resources and information
-- Interactive tools to help users better understand and engage with the content
-- A user-friendly interface that makes navigation and content discovery easy
-- A vibrant community of users who can share their experiences and knowledge with one another
+### Question 3
 
-### Q4: Can I contribute to the platform?
+**Original Text:** * 价格
+                 * 使用限制
+                 * 支持平台
 
-A4: Yes, we welcome contributions from our users! If you have any resources, tools, or insights that you think would be valuable to our community, please feel free to share them with us. You can submit your contributions through our platform's submission form.
+**Translation:** * Price
+                 * Usage restrictions
+                 * Supported platforms
 
-### Q5: How do I contact the team behind this project?
+### Question 4
 
-A5: If you have any questions, concerns, or feedback, you can reach out to our team by using the "Contact Us" form on our website. We will do our best to respond to your inquiries as soon as possible.
+**Original Text:** [点击这里](https://example.com)获取更多信息。
+
+**Translation:** [Click here](https://example.com) for more information.
+
+### Question 5
+
+**Original Text:** API接口如何调用？
+
+**Translation:** How to call the API interface?
