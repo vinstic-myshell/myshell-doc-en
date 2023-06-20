@@ -1,8 +1,8 @@
-# Chat and Language Learning
+# Chatting and Language Learning
 
 #### Creating a Study Plan
 
-Currently, there is no study plan available, but considering the powerful capabilities of the AI BOT, you can directly ask the Bot to create the study plan you want.
+Currently, there is no study plan available, but given the AI BOT's powerful capabilities, you can directly ask the Bot to create the study plan you want.
 
 For example:
 
