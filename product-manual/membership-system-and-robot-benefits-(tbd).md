@@ -24,7 +24,7 @@ Any MyShell user can upgrade their membership level and gain more robot benefits
 | Lv.4  | TBD                             | Daily recovery of 300 power; can create two public robots                                                                                                         |
 | Lv.5  | TBD                             | Daily recovery of 600 power; robot can access the knowledge base; can create three public robots; robot can have personalized voice and more advanced features... |
 
-## Power System
+## Stamina System
 
 ### Stamina Consumption
 
