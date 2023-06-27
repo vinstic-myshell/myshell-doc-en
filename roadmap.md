@@ -4,11 +4,11 @@
 
 <details>
 
-<summary>Autonomous LLM Model</summary>
+<summary>Self-controlled LLM model</summary>
 
 Already on the way
 
-Support for feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
+Support for feeding your own fine-tuning corpus, making your BOT fully meet your expectations 🤗
 
 Lifetime memory library
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities open, embeddable in any third-party application
+Underlying capabilities are open and can be embedded in any third-party application
 
 </details>
 
@@ -44,7 +44,7 @@ Underlying capabilities open, embeddable in any third-party application
 
 <details>
 
-<summary>Token Airdrop Plan Announcement</summary>
+<summary>Token Airdrop plan announcement</summary>
 
 
 
@@ -56,7 +56,7 @@ Underlying capabilities open, embeddable in any third-party application
 
 <summary>Prompt-assisted writing</summary>
 
-Lowering the threshold for user-defined prompts, already launched, users can create bots with rich personality traits through simple identity definition
+Lowering the threshold for user-defined prompts, already online, users can create bots with rich personality traits through simple identity definition
 
 </details>
 
@@ -70,9 +70,9 @@ Zero-latency voice conversation experience
 
 <details>
 
-<summary>Allow user-defined TTS</summary>
+<summary>Allow users to customize TTS</summary>
 
-Support for user-defined bot TTS through voice cloning in the Robot Workshop
+Robot workshop supports users to customize bot TTS through voice cloning
 
 </details>
 
@@ -98,7 +98,7 @@ Support for user-defined bot TTS through voice cloning in the Robot Workshop
 
 <summary>Robot support for use in other IM software</summary>
 
-MyShell.ai's Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts to extend membership benefits to robots on their social media. Already supported on Telegram, and will support Discord and other platforms in the future
+MyShell.ai's creative workshop will support robot deployment to other social platforms, and users can bind their social accounts to extend their membership benefits to robots on their social media. Already supports Telegram, and will support Discord and other platforms in the future
 
 </details>
 
@@ -106,13 +106,13 @@ MyShell.ai's Creative Workshop will support robot deployment to other social pla
 
 <summary>TTS emotion control</summary>
 
-BOT's voice will contain richer emotional differences, and this feature will enter the public testing phase in May.
+BOT's voice will contain richer emotional differences, and this feature will enter the public beta stage in May.
 
 </details>
 
 <details>
 
-<summary>Robot Creative Workshop</summary>
+<summary>Robot creative workshop</summary>
 
 
 
@@ -164,7 +164,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <details>
 
-<summary>Robot Creative Workshop</summary>
+<summary>Robot creative workshop</summary>
 
 
 
@@ -184,7 +184,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <summary>TTS cost reduction to 3% of competitors</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In just three weeks, we intensively optimized our self-developed TTS model, reducing its cost by 97% compared to Microsoft's TTS API, and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model within three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost and supporting rapid cloning of 1-5 minute voice samples.
 
 </details>
 
