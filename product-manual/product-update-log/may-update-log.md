@@ -2,25 +2,25 @@
 
 ### 20230531
 
-* Set up in 5 minutes, and you can have your own Telegram bot!
+* Set up in just 5 minutes, and you can have your own Telegram bot!
 * Check out the tutorial: [https://docs.myshell.ai/v/zhong-wen/product-manual/ling-qu-zi-ji-de-telegram-ji-qi-ren](https://docs.myshell.ai/v/zhong-wen/product-manual/ling-qu-zi-ji-de-telegram-ji-qi-ren)
-* Please note: After updating, if your BOT can be public, don't forget to update it, as TG BOT will prioritize calling public BOTs
+* Please note: After updating the BOT, if it can be made public, don't forget to update it. TG BOT will prioritize calling public BOTs.
 * Private BOTs can also create Telegram bots!
-* You can set the introduction of your BOT and attract fans for your BOT!
+* You can set the introduction for your BOT and even attract fan groups for your BOT!
 
 ### 20230521
 
-* BOT's standalone page can be shared now, whether it's a chat history or BOT, the sharing will include the "sharer's" invitation link;
+* BOT's standalone page can be shared now, whether it's a chat record or a BOT, the sharing will include the "sharer's" invitation link;
 * Workshop supports searching and filtering by name and tags;
-* Greatly improved the response speed of BOTs with voice - streaming TTS and text replies allow BOTs to reply while outputting, resulting in explosive speed improvements for long replies!
+* Greatly improved the response speed of BOTs with voice — streaming TTS and text responses allow BOTs to reply while outputting, achieving explosive speed improvements for long responses!
 * Supports Markdown (may cause some output style errors, please adjust with us later!)
-* Interface supports multiple languages: Chinese, English, can be set in the Settings in the personal center. It currently does not affect translation results, but will be introduced later;
+* Interface supports multiple languages: Chinese and English, set in the Settings of your personal center. Currently, it does not affect translation results, but it will be introduced later;
 
 ### 20230517
 
-* Separated private and public BOTs, private BOTs can be used for debugging and no longer directly affect public BOTs. Public BOTs can be overridden with public functions, similar to test and production environments. Public BOTs can no longer be edited. (The override function currently has a BUG, which is being urgently fixed)
-* Fixed the issues of recording failure and sending long voice messages failure.
-* Fixed the issue of voice length/cross-device synchronized voice messages not loading.
+* Separated private BOTs from public BOTs, private BOTs can be used for debugging and no longer directly affect public BOTs. Public BOTs can be overridden by making them public, acting as a test and production environment. Public BOTs can no longer be edited. (There is currently a BUG in the override function, which is being urgently fixed)
+* Fixed issues with recording failure and sending long voice messages.
+* Fixed issues with voice length/cross-device synchronization of voice messages not loading.
 
 ### 20230507
 
@@ -29,11 +29,11 @@
 
 ### 20230504 v3.1&#x20;
 
-* The robot workshop is officially online: supports name, avatar, introduction, system prompt words, and TTS selection; in the coming week, we will gradually support powerful features such as custom chat functions and knowledge base integration!&#x20;
-* Product interaction framework update: adopted the most familiar IM features - chat, list, personal center, an IM for a robot, super cool!
-* Membership system update: divided into ordinary and genesis, each with 5 levels, the Genesis Pass will focus on robot creation rights, and a limited-time free trial will be available soon, all users above level 2 can enjoy all the functions of level 5!&#x20;
-* Supports Telegram binding: this is a new attempt across platforms and apps, the future web version can bind various app endpoints, and enjoy the same membership benefits on different platforms.
+* The BOT Workshop is officially online: supports name, avatar, introduction, system prompt words, and TTS selection; in the coming week, we will gradually support powerful features such as custom chat functions and knowledge base access!
+* Product interaction framework updated: adopts the most familiar IM features - chat, list, personal center, an IM for a robot, super cool!
+* Membership system update: divided into ordinary and genesis, with 5 levels each. Genesis Pass will focus on robot creation rights, and a limited-time free trial will be available soon. All users above level 2 can enjoy all the features of level 5!
+* Supports Telegram binding: a new attempt at cross-platform and cross-APP integration. The future web version can bind various APPs and enjoy the same membership benefits on different platforms.
 
 ### 20230503&#x20;
 
-@Ethan | Support is available now, this is our further upgrade of the knowledge base capabilities in the workshop, its capabilities surpass other knowledge bases we know in the market. This BOT can extract detailed information from documents and inform users of the source of the answer. It's a single-turn dialogue robot, and you can answer questions in MyShell projects by @ing it in DC. In the next few days, the same knowledge base component will be launched in MyShell's robot creation workshop for your own BOT!
+@Ethan | Support is now available, which is a further upgrade of the knowledge base capabilities in our workshop. Its capabilities surpass those of other knowledge bases on the market. This BOT can retrieve detailed information from documents and inform users of the source of the answer. It is a single-round dialogue robot, and you can answer questions about MyShell projects by @ing it in DC. In the next few days, the same knowledge base component with the same capabilities will be launched in MyShell's robot creation workshop for your own BOT!

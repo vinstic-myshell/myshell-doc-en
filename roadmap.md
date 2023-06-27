@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Self-controlled LLM Model</summary>
+<summary>Autonomous LLM Model</summary>
 
 Already on the way
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities open, can be embedded in any third-party application
+Underlying capabilities open, embeddable in any third-party application
 
 </details>
 
@@ -54,9 +54,9 @@ Underlying capabilities open, can be embedded in any third-party application
 
 <details>
 
-<summary>Prompt-assisted Writing</summary>
+<summary>Prompt-assisted writing</summary>
 
-Lowering the threshold for users to define prompts, already online, users can create rich personality traits in their bot through simple identity definition
+Lowering the threshold for user-defined prompts, already launched, users can create bots with rich personality traits through simple identity definition
 
 </details>
 
@@ -70,9 +70,9 @@ Zero-latency voice conversation experience
 
 <details>
 
-<summary>Allow users to customize TTS</summary>
+<summary>Allow user-defined TTS</summary>
 
-Support for users to customize bot TTS through voice cloning in the Robot Workshop
+Support for user-defined bot TTS through voice cloning in the Robot Workshop
 
 </details>
 
@@ -98,15 +98,15 @@ Support for users to customize bot TTS through voice cloning in the Robot Worksh
 
 <summary>Robot support for use in other IM software</summary>
 
-MyShell.ai's Creative Workshop will support deploying robots to other social platforms, and users can bind their social accounts to extend their membership benefits to robots on their social media. Already supports Telegram, and will support Discord and other platforms in the future
+MyShell.ai's Creative Workshop will support robot deployment to other social platforms, and users can bind their social accounts to extend membership benefits to robots on their social media. Already supported on Telegram, and will support Discord and other platforms in the future
 
 </details>
 
 <details>
 
-<summary>TTS Emotion Control</summary>
+<summary>TTS emotion control</summary>
 
-BOT's voice will contain richer emotional differences, and this feature will enter public testing in May.
+BOT's voice will contain richer emotional differences, and this feature will enter the public testing phase in May.
 
 </details>
 
@@ -146,7 +146,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <details>
 
-<summary>Robot Peripherals</summary>
+<summary>Robot peripherals</summary>
 
 * Twitter space AMA bot
 * KOL bot
@@ -156,7 +156,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <details>
 
-<summary>Web Version + Hosted Wallet</summary>
+<summary>Web version + hosted wallet</summary>
 
 
 
@@ -174,7 +174,7 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <details>
 
-<summary>AI Service Elastic Expansion</summary>
+<summary>AI service elastic expansion</summary>
 
 
 
