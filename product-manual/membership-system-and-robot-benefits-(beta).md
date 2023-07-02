@@ -1,4 +1,4 @@
-# Membership System and Robot Benefits (Beta)
+# Membership System and Robot Rights (Beta)
 
 ## Membership System
 
@@ -8,11 +8,11 @@ MyShell memberships are divided into 3 categories: Basic Battle Pass, Standard B
 
 ### Membership Benefits (Beta)
 
-| Membership Level | Membership Benefits                                                                                                           | How to Obtain                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| Basic Battle Pass | <ul><li>30 power limit</li><li>Create one private robot</li></ul>                                                             | Default level for new users                                                                     |
-| Standard Battle Pass | <ul><li>100 power limit</li><li>Create one private robot</li><li>Earn Shell points and redeem rewards</li><li>Priority access to new features</li><li>More privileges coming soon!</li></ul> | <ul><li>Free trial for new users each season</li><li>Earn task points and redeem when rewards are available</li></ul> |
-| Genesis Pass | <ul><li>3 private robots</li><li>3 public robots</li><li>Earn Shell points and redeem rewards</li><li>Create robots using GPT-4</li><li>Priority access to test features</li><li>More privileges coming soon!</li></ul> | <ul><li>Earn task points and redeem when rewards are available</li><li>Participate in community events and receive Genesis Pass airdrops</li><li>Purchase on NFT platforms like Opensea</li></ul> |
+| Membership Level     | Membership Benefits                                                                                                                                                                                                      | How to Obtain                                                                                                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic Battle Pass    | <ul><li>30 power limit</li><li>Create one private robot</li></ul>                                                                                                                                                        | Default level for new users                                                                                                                                                                       |
+| Standard Battle Pass | <ul><li>100 power limit</li><li>Create one private robot</li><li>Earn Shell points and redeem rewards</li><li>Priority access to beta features</li><li>More privileges coming soon!</li></ul>                            | <ul><li>Free trial for new users each season</li><li>Earn task points and redeem when rewards are available</li></ul>                                                                             |
+| Genesis Pass         | <ul><li>3 private robots</li><li>3 public robots</li><li>Earn Shell points and redeem rewards</li><li>Create robots using GPT-4</li><li>Priority access to alpha features</li><li>More privileges coming soon!</li></ul> | <ul><li>Earn task points and redeem when rewards are available</li><li>Participate in community events and receive Genesis Pass airdrops</li><li>Purchase on NFT platforms like Opensea</li></ul> |
 
 ## Power System
 
@@ -35,7 +35,7 @@ Benefits: Early access to powerful Beta features, easier access to platform bene
 How to obtain:
 
 1. Earn Shell points by completing tasks in MyShell Rewards Center, and redeem with Shell points;
-2. Participate in the White List events of Web3 cooperative communities, which will be announced in the Discord channel and can also be found in [Broken link](broken-reference "mention");
+2. Participate in the White List events of Web3 cooperative communities, which will be announced in the Discord channel and can also be found in [broken-reference](broken-reference/ "mention");
 3. Participate in community contribution tasks, which will be posted in the Apply-to-join channel of Discord or in the builders channel. To enter the builders channel, you need to introduce yourself in the Apply-to-join channel and pass the review. These tasks include internal testing, secondary creation, retweeting, etc., and may adopt different rules such as lottery or direct distribution depending on the difficulty of the task;
 4. Purchase through community requests or on NFT platforms.
 
