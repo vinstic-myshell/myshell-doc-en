@@ -4,7 +4,7 @@
 * [Product Manual](product-manual/README.md)
   * [Basic Usage](product-manual/basic-usage.md)
   * [Robot Introduction](product-manual/robot-introduction.md)
-  * [Membership System and Robot Rights (Beta)](product-manual/membership-system-and-robot-benefits-(beta).md)
+  * [Membership System and Robot Benefits (Beta)](product-manual/membership-system-and-robot-rights-(beta).md)
   * [Robot Creative Workshop](product-manual/ji-qi-ren-chuang-yi-gong-fang.md)
   * [MyShell Points System (Beta)](product-manual/myshell-points-system-(beta).md)
   * [Chat and Language Learning](product-manual/chat-and-language-learning.md)
