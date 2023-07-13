@@ -2,54 +2,54 @@
 
 ## Social Media Operations Manager
 
-Responsible for managing our social media platforms and familiar with organic community growth methods.
+Responsible for managing our social media platforms and being familiar with organic community growth methods.
 
 Job Description:
 
 * Develop and implement social media operation strategies to improve our brand awareness and social influence;
 * Manage and maintain social media platforms, including Reddit, Twitter, Youtube, Instagram, Facebook, etc.;
 * Collaborate with internal teams and external partners to carry out various social media cooperation projects;
-* Monitor and analyze social media data, provide optimization suggestions;
-* Keep abreast of industry trends and best practices, continuously improve social media operations.
+* Monitor and analyze social media data, providing optimization suggestions;
+* Keep up with industry trends and best practices, continuously improving social media operations.
 
 Job Requirements:
 
-* Bachelor's degree in Marketing, Communication, or related fields;
+* Bachelor's degree in marketing, communications, or related fields;
 * 3+ years of social media operation experience, familiar with Reddit, Twitter, Instagram, Facebook, etc., and media placement;
-* 3+ years of marketing experience with international products, TO C education, service, platform, ACG products preferred, or social products;
+* 3+ years of international product marketing experience, TO C education, service-oriented, platform-oriented, ACG products preferred, or social products;
 * Familiar with organic community growth methods, able to attract and retain users;
 * Good communication and interpersonal relationship building skills;
-* Excellent project management and organizational skills;
-* Ability to work independently and collaborate with teams in a fast-paced environment;
-* Fluent in Chinese and English, both spoken and written.
+* Excellent project management and organization skills;
+* Ability to work independently and collaboratively in a fast-paced environment;
+* Fluent in Chinese and English speaking and writing.
 
-If you are passionate about social media operations and brand promotion, we look forward to your joining.
+If you are passionate about social media operations and brand promotion, we are looking forward to your joining.
 
 Resume submission: rick@myshell.ai; Telegram: @x64rick
 
-## Talent Operations Manager
+## KOL Operations Manager
 
-We are looking for a highly self-motivated, experienced overseas KOL recruitment and operation specialist to join our team. As an important member of our team, you will be responsible for managing and executing global KOL recruitment and operations, and working closely with our internal team to carry out entertainment and education projects.
+We are looking for a highly self-motivated, experienced overseas KOL recruitment and operation specialist to join our team. As an important member of our team, you will be responsible for managing and executing global KOL recruitment and operations, and working closely with our internal teams to carry out entertainment and education projects.
 
 Job Description:
 
-* Develop and implement recruitment strategies to find KOLs that align with our brand values and mission;
+* Develop and implement recruitment strategies, looking for KOLs that align with our brand values and mission;
 * Establish and maintain relationships with KOLs, and manage ongoing collaborations;
 * Collaborate with internal teams to carry out KOL activities and content;
-* Monitor and analyze KOL operation data, and provide optimization suggestions;
-* Keep abreast of industry trends and best practices, continuously improve KOL recruitment and operations.
+* Monitor and analyze KOL operation data, providing optimization suggestions;
+* Keep up with industry trends and best practices, continuously improving KOL recruitment and operations.
 
 Job Requirements:
 
-* Bachelor's degree in Marketing, Communication, or related fields;
-* 3+ years of experience in KOL management and recruitment in the entertainment and education fields;
+* Bachelor's degree in marketing, communications, or related fields;
+* 3+ years of experience in entertainment and education KOL management and recruitment;
 * Good communication and interpersonal relationship building skills;
-* Excellent project management and organizational skills;
-* Ability to work independently and collaborate with teams in a fast-paced environment;
-* Fluent in Chinese and English, familiar with ACG culture;
-* Frequent user of overseas social media.
+* Excellent project management and organization skills;
+* Ability to work independently and collaboratively in a fast-paced environment;
+* Fluent in Chinese and English speaking, familiar with ACG culture;
+* Frequent use of overseas social media.
 
-If you are passionate about interpersonal communication, relationship building, and result-driven, we look forward to your joining.
+If you are passionate about interpersonal communication, relationship building, and driving results, we are looking forward to your joining.
 
 Resume submission: rick@myshell.ai; Telegram: @x64rick
 
@@ -59,19 +59,19 @@ Responsible for expanding and managing distribution channels, including but not 
 
 Job Description:
 
-* Develop and implement channel cooperation strategies to expand our distribution channels;
+* Develop and implement channel cooperation strategies, expanding our distribution channels;
 * Collaborate with internal teams and external partners to carry out various channel cooperation projects;
 * Manage and maintain channel partner relationships, ensuring smooth cooperation;
-* Monitor and analyze channel cooperation data, provide optimization suggestions;
-* Keep abreast of industry trends and best practices, continuously improve channel cooperation.
+* Monitor and analyze channel cooperation data, providing optimization suggestions;
+* Keep up with industry trends and best practices, continuously improving channel cooperation.
 
 Job Requirements:
 
-* Bachelor's degree in Marketing, Communication, or related fields;
-* 3+ years of experience in channel cooperation, familiar with app stores, product navigation, education and training institutions, etc.;
+* Bachelor's degree in marketing, communications, or related fields;
+* 3+ years of channel cooperation experience, familiar with app stores, product navigation, education and training institutions, etc.;
 * Good communication and interpersonal relationship building skills;
-* Excellent project management and organizational skills;
-* Ability to work independently and collaborate with teams in a fast-paced environment;
-* Fluent in Chinese and English, both spoken and written.
+* Excellent project management and organization skills;
+* Ability to work independently and collaboratively in a fast-paced environment;
+* Fluent in Chinese and English speaking and writing.
 
 Resume submission: rick@myshell.ai; Telegram: @x64rick
