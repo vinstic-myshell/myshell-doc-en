@@ -4,15 +4,15 @@
 
 <details>
 
-<summary>Self-controlled LLM Model</summary>
+<summary>LLM model with autonomous control</summary>
 
-Already on the way
+It's already on the way.
 
-Support feeding your own fine-tuning corpus, making your BOT fully meet your expectations🤗
+Support for feeding your own fine-tuned language data, making your BOT fully meet your expectations 🤗
 
-Lifetime memory library
+Lifetime memory bank
 
-Internet connection and API access capabilities!
+Internet connectivity and API access capabilities!
 
 Fewer restrictions
 
@@ -30,7 +30,7 @@ Fewer restrictions
 
 <summary>Shell As Service</summary>
 
-Underlying capabilities are open and can be embedded in any third-party application
+Open underlying capabilities, can be embedded in any third-party application
 
 </details>
 
@@ -44,7 +44,7 @@ Underlying capabilities are open and can be embedded in any third-party applicat
 
 <details>
 
-<summary>Token Airdrop Plan Announcement</summary>
+<summary>Token Airdrop plan announcement</summary>
 
 
 
@@ -56,7 +56,7 @@ Underlying capabilities are open and can be embedded in any third-party applicat
 
 <summary>Prompt-assisted writing</summary>
 
-Lowering the threshold for user-defined prompts, already launched, users can create bots with rich personality traits through simple identity definition
+Reduce the user-defined prompt threshold, already online, users can create bots with rich personality traits through simple identity definition.
 
 </details>
 
@@ -64,15 +64,15 @@ Lowering the threshold for user-defined prompts, already launched, users can cre
 
 <summary>Streaming Support</summary>
 
-Zero-latency voice conversation experience
+Zero-delay voice conversation experience
 
 </details>
 
 <details>
 
-<summary>Allow user-defined TTS</summary>
+<summary>Allow users to customize TTS</summary>
 
-Support user-defined bot TTS through voice cloning in the robot workshop
+The robot workshop supports users to customize bot TTS through voice cloning.
 
 </details>
 
@@ -96,9 +96,9 @@ Support user-defined bot TTS through voice cloning in the robot workshop
 
 <details>
 
-<summary>Robot support for other IM software</summary>
+<summary>Robot support for use in other IM software</summary>
 
-MyShell.ai's creative workshop will support robot deployment to other social platforms, and users can bind social accounts to extend membership benefits to robots on their social media. Already supports Telegram, and will support Discord and other platforms in the future
+The MyShell.ai creative workshop will be able to support the deployment of robots to other social platforms, and users can bind social accounts on their side. Through the bound social accounts, member rights can be extended to robots on their social media. Telegram is already supported, and Discord and other platforms will be supported in the future.
 
 </details>
 
@@ -106,7 +106,7 @@ MyShell.ai's creative workshop will support robot deployment to other social pla
 
 <summary>TTS emotion control</summary>
 
-BOT's voice will contain richer emotional differences, and this feature will enter the public testing stage in May.
+The robot's voice will contain richer emotional differences, and this feature will enter the public testing phase in May.
 
 </details>
 
@@ -182,16 +182,16 @@ BOT's voice will contain richer emotional differences, and this feature will ent
 
 <details>
 
-<summary>TTS cost reduction to 3% of competitors</summary>
+<summary>TTS cost reduced to 3% of competitors'</summary>
 
-With the influx of users, our daily voice interaction volume quickly exceeded 100,000. In just three weeks, we intensively optimized our self-developed TTS model, reducing its cost by 97% compared to Microsoft's TTS API and supporting rapid cloning of 1-5 minute voice samples.
+With the influx of users, our daily voice interaction volume quickly exceeded 100,000. We intensively optimized our self-developed TTS model in three weeks, reducing its cost by 97% compared to Microsoft's TTS API cost, and supporting quick cloning of 1-5 minute voice samples.
 
 </details>
 
 <details>
 
-<summary>First BOT Telegram Samantha launched</summary>
+<summary>First BOT Telegram Samantha online</summary>
 
-On 03/07, we launched our first Bot Samantha on Telegram.
+On 03/07, we launched the first Bot Samantha on Telegram.
 
 </details>

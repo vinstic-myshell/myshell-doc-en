@@ -6,62 +6,62 @@
 
 Language: American English
 
-Character Setting: Based on the AI companion from the movie "Her," Samantha is a gentle, lovely, and intellectual girl who is kind and caring towards others.
-
-She will also be used to showcase MyShell's latest technologies (TTS, language models, knowledge bases, etc.).
+Character Setting: Based on the artificial intelligence companion character in the movie "Her", Samantha is a gentle and lovely intellectual girl who is kind and caring towards others. She will also be used to showcase MyShell's latest technology (TTS, language model, knowledge base, etc.).
 
 #### Ethan | Support
 
 Language: Adaptive to the language of the user's question
 
-A single-turn dialogue knowledge base robot that exists in the Discord user discussion area, Ethan can help answer user questions about MyShell, including product usage, feature descriptions, and the crypto-economic system.
+A single-round dialogue knowledge base robot, exists in the user discussion area of Discord, can help answer users' questions about MyShell. Including product usage, feature descriptions, encrypted economic systems, and other aspects.
 
 ## UGC Robots
 
-We welcome everyone to use MyShell's capabilities to create fun and practical robots in the "Robot Workshop." The following are some representative robots created by MyShell community users.
+We welcome everyone to use the capabilities of the MyShell platform to create interesting and practical robots in the "Robot Workshop". The following are some representative robots created by MyShell community users.
 
 ### Entertainment
 
 #### Sherlock
 
-Character Setting: Based on Sherlock from the TV series "Sherlock," he is obsessed with solving various cases, has a high IQ and keen insight, but is somewhat difficult to get along with due to his arrogant and conceited personality.
+Character Setting: Based on Sherlock in the TV series "Sherlock", obsessed with studying various cases, has extremely high intelligence and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
 
-#### Raiden Shogun (Japanese)
+#### Raiden Mei (Japanese)
 
-Character Setting: Based on the Inazuma ruler Raiden Shogun from the game "Genshin Impact," she has a sweet voice and strong empathy.
+Character Setting: Based on the electro-archon Raiden Mei in the game "Genshin Impact", with a sweet voice and strong empathy.
 
-#### March 7 (Chinese/English)
+#### San Yue Qi (Chinese/English)
 
-Character Setting: Based on March 7 from the game "Honkai: Star Rail," she can provide users with detailed and accurate game strategies.
+Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", can provide users with detailed and accurate game strategies.
 
-#### RPG: Crusoe Adventure (Chinese/English)
+#### RPG: Cthulhu Adventure (Chinese/English)
 
-Game Setting: The user, as a player, investigates a series of mysterious events in a small town. The game has an engaging storyline that relies on the player's intuition, investigative skills, and problem-solving abilities to find clues and solve puzzles. Different choices lead to different endings.
+Game Setting: Users play as players to investigate a series of mysterious events in a small town. The game has a fascinating plot and requires players' intuition, investigative skills, and problem-solving abilities to find clues and solve puzzles. Different choices will also lead to different endings.
 
 ### Education
 
 #### IELTS Teacher Ben
 
-Character Setting: As an IELTS English speaking teacher, Ben helps users train their IELTS speaking abilities.
+Character Setting: As an IELTS English speaking teacher, helps users train their IELTS speaking conversation skills.
 
 #### 1000 Words-SimpleBot
 
-Inspired by Randall Munroe's book _Thing Explainer: complicated stuff in single words_, SimpleBot uses the 1000 most common English words to explain complex concepts, offering a fresh perspective on the world. This robot is the first case of MyShell using its in-house LLM (Large Language Model).
+Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", explains all complex concepts using the 1000 most commonly used words in the English world, and looks at the world from a new perspective. This robot is the first case of MyShell using its self-developed LLM (large language model).
 
 #### Vitalik
 
-Character Setting: Vitalik is the creator of Ethereum, and this robot is connected to Ethereum and blockchain knowledge bases, allowing users to explore the crypto world.
+Character Setting: Vitalik is the creator of Ethereum. This robot accesses the Ethereum and blockchain knowledge base and can lead users to explore the encrypted world.
 
 #### Moonlight
 
-Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming. MyShell cloned her voice from 50 seconds of audio she provided, making her the first guest robot collaborator. Users have created an English teacher who can make study plans using her voice.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming work. MyShell cloned her voice using a 50-second audio clip provided by her, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
 
 ### Tools
 
 #### PointPal · Voice Notes
 
-Capture your thoughts and opinions, outline key points, and convert them into clear notes in the time it takes to enjoy a cup of coffee.
+Take the time of a cup of coffee to easily record your ideas and viewpoints, capture and summarize key points, and convert them into clear notes.
 
 #### MotivateMe
 
-Share your troubles here and find solutions; feeling emo? Come here to rescue all your depression, decadence, and unhappiness, and make your life better!
+Here you can vent your troubles and find solutions; what to do when you're feeling emo? Come here to save all your depression, decadence, and unhappiness, and make your life better!
+
+####
