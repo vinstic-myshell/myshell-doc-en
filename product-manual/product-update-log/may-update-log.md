@@ -19,8 +19,8 @@
 ### 20230517
 
 * Private BOTs are now isolated from public BOTs. Private BOTs can be used for debugging and will no longer directly affect public BOTs. Public BOTs can be covered by the public function, which is equivalent to a testing environment and a formal environment. Public BOTs can no longer be edited. (There is currently a bug in the coverage function, which is being urgently fixed.)
-* Fixed the problem of recording and sending long voice messages failing.
-* Fixed the problem of voice message length/cross-device synchronization of voice messages not being able to load.
+* Fixed the problem of recording and sending long voice messages.
+* Fixed the problem of voice message length/cross-device synchronization and message loading.
 
 ### 20230507
 
@@ -29,10 +29,10 @@
 
 ### 20230504 v3.1&#x20;
 
-* The Bot Workshop is officially launched: supporting the selection of name, avatar, introduction, system prompts, and TTS. In the next week, we will gradually support highly powerful functions such as customizing chat functions and integrating knowledge bases!
-* The product interaction framework is updated: using the most familiar IM features - chat, list, personal center, an IM for a bot, super cool!
+* The Bot Workshop is officially launched: supporting the selection of name, avatar, introduction, system prompts, and TTS. In the next week, we will gradually support powerful functions such as customizing chat functions and integrating knowledge bases!
+* The product interaction framework is updated: using the most familiar IM features - chat, list, and personal center, creating a super cool IM for bots!
 * The membership system is updated: divided into ordinary and Genesis, with 5 levels each. The Genesis Pass will focus on the rights of bot creation. A limited-time free trial will be launched soon, and all users above level 2 can enjoy all the functions of level 5!
-* Telegram binding is now supported: this is a new attempt to cross-platform and cross-app. The web version in the future can bind to various APPs on different platforms and enjoy the same membership rights.
+* Telegram binding is now supported: this is a new attempt to cross-platform and cross-app. The web version in the future can bind to various APPs across different platforms and enjoy the same membership rights.
 
 ### 20230503&#x20;
 

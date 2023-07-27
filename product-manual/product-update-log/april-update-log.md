@@ -36,7 +36,7 @@
 
 #### 2023/04/05
 
-Japanese Bot is now online, and the popular character from "Genshin Impact", our rice goddess ruler #Raiden Shogun# has officially arrived!
+Japanese Bot is now online, and the popular character from "Genshin Impact", our "Raiden Shogun" has arrived!
 
 #### 2023/04/02
 

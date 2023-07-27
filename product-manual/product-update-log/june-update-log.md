@@ -2,11 +2,11 @@
 
 ### 20230627
 
-* Bot Heat Ranking is now online. Starting from June 27th, the number of messages sent by bots within 7 days will be calculated and ranked accordingly. The ranking will directly affect the display order in the workshop list and will be updated every hour.
-* Featured Bot List is now open. We will regularly select some bots based on their stability, innovation, and popularity to be featured on the list. Being a featured bot will also give your bot greater exposure! Keep improving your bot!
-* Creator Dashboard: Creators can now see the daily heat ranking of their bots on the dashboard, as well as the ranking trends at different times after June 27th. We also differentiate between the number of new friends invited by invitation codes and Telegram Bot invitations. You can also see the change curve of historical invitation numbers, which will help you better grasp the pace of promotion. (We will also open up rich reward channels in the next major version, so stay tuned~)
-* Bot creation now supports GPT-4. Friends with a Genesis Passcard can choose to use the GPT-4 model to take their bot's abilities to the next level!
-* Friends who converse with the bot will be notified when the Prompt is updated, so they can clear the bot's memory in a timely manner to make the latest Prompt effective.
+* Bot Heat Ranking is now available! Starting from June 27th, the number of messages sent by bots within 7 days will be calculated and ranked accordingly. The ranking will directly affect the display order of bots in the workshop list and will be updated hourly.
+* Featured Bot List is now open! We will regularly select bots based on their stability, innovation, and popularity to be featured on the list. Being a featured bot will give your bot greater exposure! Keep improving your bot to be selected!
+* Creator Dashboard: Creators can now see the daily heat ranking of their bots on the dashboard, as well as the ranking trends over different time periods after June 27th. We also differentiate between the number of new friends invited by invitation codes and Telegram Bot invitations. You can also see the change curve of historical invitation numbers, making it easier to grasp the pace of promotion. (We will also open up rich reward channels in the next major version, so stay tuned!)
+* Bot creation now supports GPT-4! Friends with a Genesis Passcard can choose to use the GPT-4 model to take their bot's abilities to the next level!
+* Friends who converse with bots will now be notified when Prompt is updated, allowing them to clear the bot's memory and make the latest Prompt effective in a timely manner.
 * Bot public voice samples now support more language choices, including French, Russian, Portuguese, Arabic, Spanish, and German.
 
 ### 20230620
@@ -34,18 +34,18 @@
 
 ### 20230608
 
-* The bot creation tool, AutoPrompt, is now online. It can generate bots based on your language description. Its effect is at least equivalent to a normal person studying Prompt for more than 20 hours!
-* If you are an advanced player, we will open up the generated prompts for everyone to further optimize based on them in next week's version.
+* The bot creation tool, AutoPrompt, is now available! It can generate bots based on your language description. Its effect is at least equivalent to a normal person studying Prompt for more than 20 hours!
+* If you are an advanced player, we will open up generated prompts for everyone to further optimize based on them in next week's version.
 * You can now use Shift + Enter to line break in the text input box.
 * In group chat mode, Telegram BOT can now be conversed with by replying to the BOT's message.
-* The knowledge base has quietly been updated to support URL parsing (currently only for one layer of text). Please try it out first. If you encounter any unsolvable scenarios, please give us feedback. We will gradually improve this feature.
+* The knowledge base has been quietly updated to support URL parsing (currently only for one layer of text). Please try it out first. If you encounter any unsolvable scenarios, please give us feedback. We will gradually improve this feature.
 
 ### 20230607
 
-* Support for trial use as a guest. Even without logging in, you can now get 10 electricity points, further lowering the threshold for inviting new users!
-* A brand new UI redesign is underway...
+* Trial use is now available for guests, who can also receive 10 units of electricity without logging in. The threshold for inviting new users has been further lowered!
+* A brand new UI redesign is in progress...
 
 ### 20230601
 
-* The Bot Workshop now supports filtering for bots that have Telegram!
-* At the same time, the bot details page now shows the corresponding Telegram Bot name and has a link for direct access!
+* The Bot Workshop now supports filtering bots that have Telegram!
+* At the same time, the bot details page now shows the corresponding Telegram Bot's name and has a link for direct access!

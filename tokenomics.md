@@ -8,7 +8,7 @@
 
 MyShell Genesis Pass NFT is an ERC 721 token, and its usage and acquisition methods are as follows.
 
-<table><thead><tr><th width="172">Type</th><th width="99">Quantity Limit</th><th>Acquisition Method</th><th>Usage and Advantages</th></tr></thead><tbody><tr><td>MyShell Genesis Pass</td><td>10000</td><td>Airdropped by partner communities<br>Purchased directly on Opensea</td><td>Public robots can obtain more traffic, incentivize users to try new robots, feed data for optimization and iteration, and users can receive token incentives</td></tr></tbody></table>
+<table><thead><tr><th width="172">Type</th><th width="99">Quantity Limit</th><th>Acquisition Method</th><th>Usage and Advantages</th></tr></thead><tbody><tr><td>MyShell Genesis Pass</td><td>10000</td><td>Airdropped by partner communities<br>Purchased directly on Opensea</td><td>Obtain more traffic through public robots, incentivize users to try new robots, feed data for optimization and iteration, and receive token incentives</td></tr></tbody></table>
 
 ### Token
 
@@ -24,8 +24,8 @@ Shell Token ($SHEL) is the currency that users and creators can obtain and use i
 
 |                  | Share | Unlocking Conditions                                      |
 | ---------------- | ----- | --------------------------------------------------- |
-| Community Incentives | 60% | Used for task incentives for contributors, partners, and users, platform task rewards, and treasury. |
-| Team Development Fund | 30% | Unlocked in 5 years, of which 1% is used to reward the team before IDO, unlocked in 6 months. The remaining 29% is distributed monthly and is not locked after IDO. |
+| Community Incentives | 60% | Used for task incentives for contributors, partners, users, platform task rewards, and treasury. |
+| Team Development Fund | 30% | Unlocked in 5 years, of which 1% is used to reward the team before IDO, unlocked in 6 months. The remaining 29% is distributed monthly as unlocked salary after IDO. |
 | Private Placement / IDO / IEO Reservation | 10% | 5% for private placement TGE, the remaining 95% starts to unlock in 6 months (platform development period), and is released linearly on a quarterly basis for 2 years. |
 
 ### 4.4 Token Usage Scenarios (TBD)
