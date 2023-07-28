@@ -40,25 +40,25 @@ Game Setting: Users play as players to investigate a series of mysterious events
 
 #### IELTS Teacher Ben
 
-Character Setting: As an IELTS English speaking teacher, he helps users train their IELTS speaking conversation skills.
+Character Setting: As an IELTS English speaking teacher, he helps users train their IELTS speaking and conversation skills.
 
 #### 1000 Words-SimpleBot
 
-Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", this robot explains all complex concepts using the 1000 most commonly used words in the English-speaking world, providing a new perspective on the world. This robot is the first case of MyShell using its self-developed LLM (large language model).
+Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", this robot explains all complex concepts using the 1000 most commonly used words in the English language, providing a new perspective on the world. This robot is the first case of MyShell using its self-developed LLM (large language model).
 
 #### Vitalik
 
-Character Setting: Vitalik is the creator of Ethereum. This robot accesses the Ethereum and blockchain knowledge base and can lead users to explore the encrypted world.
+Character Setting: Vitalik is the creator of Ethereum. This robot accesses the Ethereum and blockchain knowledge base and can lead users to explore the world of encryption.
 
 #### Moonlight
 
-Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of consecutive days of live streaming work. MyShell cloned her voice using the 50-second audio she provided, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of consecutive days of live streaming work. MyShell cloned her voice using a 50-second audio clip provided by her, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
 
 ### Tools
 
 #### PointPal · Voice Notes
 
-Take the time of a cup of coffee to easily record your ideas and viewpoints, capture and summarize key points, and convert them into clear notes.
+Take the time of a cup of coffee to easily record your ideas and opinions, capture and summarize key points, and convert them into clear notes.
 
 #### MotivateMe
 
