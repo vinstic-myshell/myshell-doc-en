@@ -57,4 +57,4 @@ If you are using the system's built-in Safari browser, it is recommended that yo
 
 #### After entering two voice messages, it prompts that the voice cannot be collected. How to solve it?
 
-Please check if you are using an IOS device. Due to IOS's security policy issues, you need to regularly re-authorize the recording permission of the webpage. Please try to refresh the page and agree to authorize in the pop-up authorization notification. If the problem is still not resolved, it is recommended that you use it on the desktop.
+Please check if you are using an IOS device. Due to IOS's security policy issues, you need to regularly re-authorize the recording permission of the webpage. Please try to refresh the page and agree to authorize in the pop-up authorization notification. If the problem is still not resolved, it is recommended that you use it on the desktop version.

@@ -8,11 +8,11 @@ MyShell's membership is divided into three categories: regular members, premium 
 
 ### Membership Benefits (Beta)
 
-| Membership Level | Membership Benefits                                                                                                             | Acquisition Method                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Regular Member   | <ul><li>30 electricity limit</li><li>Can create one private robot</li></ul>                                                       | Default level for new users                                                                    |
-| Premium Member   | <ul><li>100 electricity limit</li><li>Can create one private robot</li><li>Earn Shell points and redeem rewards</li><li>Priority access to new features</li><li>More privileges to come!</li></ul> | <ul><li>New users can experience for free each season</li><li>Earn task points and redeem rewards when they are available</li></ul> |
-| Genesis Pass     | <ul><li>3 private robots</li><li>3 public robots</li><li>Earn Shell points and redeem rewards</li><li>Create robots using GPT-4</li><li>Priority access to testing features</li><li>More privileges to come!</li></ul> | <ul><li>Earn task points and redeem rewards when they are available</li><li>Receive Genesis Pass airdrops by participating in community activities</li><li>Purchase on NFT platforms such as Opensea</li></ul> |
+| Membership Level | Membership Benefits                                                                                                               | Acquisition Method                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Regular Member   | <ul><li>60 electricity limit</li><li>Can create one private robot</li></ul>                                                       | Default level for new users                                                                    |
+| Premium Member   | <ul><li>200 electricity limit</li><li>Can create one private robot</li><li>Earn Shell points and redeem rewards</li><li>Create robots using GPT-4</li><li>Priority access to new features</li><li>More privileges coming soon!</li></ul> | <ul><li>New users can experience for free each season</li><li>Earn task points and redeem rewards when they are available</li></ul> |
+| Genesis Pass     | <ul><li>3 private robots</li><li>3 public robots</li><li>Earn Shell points and redeem rewards</li><li>Create robots using GPT-4</li><li>Priority access to beta features</li><li>More privileges coming soon!</li></ul> | <ul><li>Earn task points and redeem rewards when they are available</li><li>Participate in community activities to receive Genesis Pass airdrops</li><li>Purchase on NFT platforms such as Opensea</li></ul> |
 
 ## Power System
 
@@ -22,7 +22,7 @@ MyShell's membership is divided into three categories: regular members, premium 
 
 ### Electricity Update
 
-Recovery of the daily electricity limit is 1/24 per hour. If it is less than 1, it will not recover and will accumulate until the next time.
+Recover 1/24 of the daily electricity limit every hour. If it is less than 1, it will not recover and will accumulate until the next time.
 
 ## Glossary
 
@@ -30,7 +30,7 @@ Recovery of the daily electricity limit is 1/24 per hour. If it is less than 1, 
 
 Limited to 10,000, users with MyShell Genesis Pass are Genesis members and enjoy more platform benefits.
 
-Benefits: Early access to some powerful Beta features, easier access to platform benefits, and preferential measures in the encrypted economy system.
+Benefits: Early access to some powerful beta features, easier access to platform benefits, and preferential measures in the encrypted economy system.
 
 Acquisition Method:
 
@@ -41,7 +41,7 @@ Acquisition Method:
 
 #### Shell Token ($SHEL)
 
-It is the currency that users and creators use to obtain and use in the Myshell ecosystem. The total amount is 1,000,000,000.
+It is the currency that users and creators obtain and use in the Myshell ecosystem. The total amount is 1,000,000,000.
 
 Usage:
 
@@ -50,5 +50,5 @@ Usage:
 
 Acquisition Method:
 
-1. (Users) Earn by completing tasks issued by robots. (TBD)
-2. (Creators) List robots on the MyShell platform, collect Shell Tokens for user subscriptions and upgrades to the robot. (TBD)
+1. (Users) Earn by completing tasks issued by the robot. (TBD)
+2. (Creators) List the robot on the MyShell platform, collect Shell Tokens for user subscriptions and upgrades to the robot. (TBD)

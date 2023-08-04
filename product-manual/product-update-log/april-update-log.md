@@ -13,18 +13,18 @@
 
 #### 2023/04/20&#x20;
 
-1. Genesis passcard can now be detected, and the number of conversations has been temporarily increased to 50. More benefits are coming soon
+1. Genesis passcard can now be detected, and the number of conversations has been temporarily increased to 50. More rights and interests are expected in the future
 2. Optimized server stability and security. Web version users need to log in again
 
 #### 2023/04/13
 
 1. Optimized the prompt for Bot's favorability upgrade
-2. Samantha's voice is more natural now, and the problem of high-pitched tone in short sentences has been fixed
+2. Samantha's voice is more natural, and the problem of high-pitched tone in short sentences has been fixed
 
 #### 2023/04/10
 
 1. Invitation function is online, and your invitation contribution is being counted. Effective invitations will bring huge airdrop benefits in the later stage
-2. User level system is open, and users who have been invited or have invited three effective users can upgrade the robot relationship to lv.1
+2. The user level system is open, and users who have been invited or have invited three effective users can upgrade the robot relationship to lv.1
 3. Web3 well-known host, limited-time guest of MyShell robot, can communicate with her one-on-one or answer your questions about ultiverse.io projects!
 
 #### 2023/04/08

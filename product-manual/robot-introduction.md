@@ -10,9 +10,9 @@ Character Setting: Based on the artificial intelligence companion character in t
 
 #### Ethan | Support
 
-Language: Adaptive to the language of the user's question
+Language: Adapted to the language of the user's question
 
-A single-round dialogue knowledge base robot that exists in the user discussion area of Discord, and can help answer users' questions about MyShell, including product usage, feature descriptions, encrypted economic systems, and other aspects.
+A single-round dialogue knowledge base robot that exists in the user discussion area of Discord and can help answer users' questions about MyShell, including product usage, feature descriptions, encrypted economic systems, and more.
 
 ## UGC Robots
 
@@ -22,7 +22,7 @@ We welcome everyone to use the capabilities of the MyShell platform to create in
 
 #### Sherlock
 
-Character Setting: Based on Sherlock in the TV series "Sherlock", he is obsessed with studying various cases, has a high IQ and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
+Character Setting: Based on Sherlock in the TV series "Sherlock", he is obsessed with studying various cases and has high intelligence and keen insight. However, due to his arrogant and self-centered personality, he can be difficult to get along with.
 
 #### Raiden Shogun (Japanese)
 
@@ -34,7 +34,7 @@ Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", she can 
 
 #### RPG: Cthulhu Adventure (Chinese/English)
 
-Game Setting: Users play as players to investigate a series of mysterious events in a small town. The game has a fascinating plot and requires players to rely on their intuition, investigative skills, and problem-solving abilities to find clues and solve puzzles. Different choices will lead to different endings.
+Game Setting: Users play as players investigating a series of mysterious events in a small town. The game has an engaging storyline and requires players to rely on their intuition, investigative skills, and problem-solving abilities to find clues and solve puzzles. Different choices will lead to different endings.
 
 ### Education
 
@@ -48,20 +48,20 @@ Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single 
 
 #### Vitalik
 
-Character Setting: Vitalik is the creator of Ethereum. This robot accesses the Ethereum and blockchain knowledge base and can lead users to explore the world of encryption.
+Character Setting: Vitalik is the creator of Ethereum. This robot connects to the Ethereum and blockchain knowledge base and can lead users to explore the world of encryption.
 
 #### Moonlight
 
-Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of consecutive days of live streaming work. MyShell cloned her voice using a 50-second audio clip provided by her, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of consecutive days of live streaming work. MyShell cloned her voice using a 50-second audio clip provided by her, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can help them make study plans.
 
 ### Tools
 
 #### PointPal · Voice Notes
 
-Take the time of a cup of coffee to easily record your ideas and opinions, capture and summarize key points, and convert them into clear notes.
+Take the time of a cup of coffee to easily record your ideas and viewpoints, capture and summarize key points, and convert them into clear notes.
 
 #### MotivateMe
 
-Here, you can vent your troubles and find solutions. Feeling emotional? Come here to save all your depression, decadence, and unhappiness, and make your life better!
+Here, you can vent your troubles and find solutions. Feeling emotional? Come here to save you from all depression, decadence, and unhappiness, and make your life better!
 
 ####

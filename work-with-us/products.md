@@ -2,7 +2,7 @@
 
 ## Strategy Product Manager
 
-We are looking for an experienced Strategy Product Manager with experience in designing viral, distribution, and task systems, as well as a deep understanding of the ecosystem of overseas application development. The ideal candidate will have a track record of successfully launching products and driving user growth through innovation and effective strategies.
+We are looking for an experienced Strategy Product Manager with experience in designing viral, distribution, and task systems, and a deep understanding of the ecosystem of overseas application development. The ideal candidate will have a track record of successfully launching products and driving user growth through innovation and effective strategies.
 
 Responsibilities:
 

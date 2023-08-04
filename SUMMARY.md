@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 * [Welcome](README.md)
 * [Product Manual](product-manual/README.md)
@@ -6,7 +6,7 @@
   * [Introduction to Robots](product-manual/robot-introduction.md)
   * [Membership System and Robot Benefits (Beta)](product-manual/membership-system-and-robot-benefits-(beta).md)
   * [Robot Creative Workshop](product-manual/robot-creative-workshop.md)
-  * [MyShell Points System (Beta)](product-manual/myshell-points-system-(beta).md)
+  * [MyShell Points System (Alpha)](product-manual/myshell-points-system-(alpha).md)
   * [Chatting and Language Learning](product-manual/chatting-and-language-learning.md)
   * [Product Update Log](product-manual/product-update-log/README.md)
     * [July Update Log](product-manual/product-update-log/july-update-log.md)

@@ -1,19 +1,19 @@
 # Robot Creative Workshop
 
-The Robot Creative Workshop is a very interesting DIY feature that is open to all MyShell users. You can combine interesting bots in several ways, and we strongly encourage everyone to create lively and interesting entertainment bots and enjoy the experience!
+The Robot Creative Workshop is a very interesting DIY feature open to all MyShell users. You can combine interesting bots in several ways, and we strongly encourage everyone to create their own lively and interesting entertainment bots and enjoy the experience!
 
 You can create your own robot in just five minutes!
 
 1. Use definitions to specify the personality and mission of the robot;
 2. The amazing fast voice cloning gives the robot a pleasant voice;
 3. The external knowledge base makes the robot have incredibly powerful professional knowledge;
-4. And the upcoming Internet and API access capabilities, as well as multimodal models, will bring even more powerful capabilities to the robot.
+4. And the upcoming Internet and API access capabilities, multimodal models will bring deeper and more powerful capabilities to the robot.
 
 ## Definition
 
 The robot definition is the most critical parameter setting (Prompt) for the robot. It allows you to define the robot's role, function, and even conversation style. MyShell supports the simplest way to define roles and automatically generates a complete and comprehensive Prompt for the robot.
 
-### Automated Prompt (strongly recommended)
+### Automated Prompt (highly recommended)
 
 Automated Prompt is an innovative Prompt generator launched by MyShell. You can have a knowledgeable, characterful, and conversational robot by simply defining the bot's identity. There are currently two main ways to define:
 
@@ -25,17 +25,17 @@ Some specific examples and dialogue effects are as follows:
 
 **Input**: "Rick Sanchez"
 
-**Dialogue effect**: Realistically imitates Rick Sanchez's "arrogant" and "sarcastic" way of speaking, as well as his background story (as shown in the figure below)
+**Dialogue effect**: Realistically imitates Rick Sanchez's "arrogant" and "sarcastic" way of speaking and incorporates his background story (as shown in the figure below)
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Input**: "SpongeBob SquarePants"
 
-**Dialogue effect**: Realistically imitates SpongeBob SquarePants' innocent and cute way of speaking, and incorporates SpongeBob SquarePants' character experience (as shown in the figure below)
+**Dialogue effect**: Realistically imitates SpongeBob SquarePants' innocent and cute way of speaking and incorporates SpongeBob SquarePants' character experience (as shown in the figure below)
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Please note that network access may be required during the expansion of the Prompt. For characters after 2021, the waiting time may be longer. If you encounter a failure, please try again in two minutes, or join our official [Discord](https://discord.com/invite/XQ7Tx8qEwg) community to ask questions directly!
+Please note that during the expansion of the Prompt, network access may be required. For characters after 2021, the waiting time may be longer. If you encounter a failure, please try again in two minutes or join our official [Discord](https://discord.com/invite/XQ7Tx8qEwg) community to ask questions directly!
 
 _**Through description definition**_
 
@@ -47,7 +47,7 @@ Some specific scenarios and effects are as follows:
 
 **Input**: "Kira, an experienced English teacher who can help me improve my English"
 
-**Dialogue effect**: As an exclusive English teacher, Kira will actively inquire about the situation and arrange follow-up learning plans
+**Dialogue effect**: As an exclusive English teacher, Kira will actively inquire about her situation and arrange follow-up learning plans.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -77,9 +77,9 @@ For users with more complex needs, we also provide a more detailed usage of prom
 * Place clear instructions (such as requiring the language model to play a certain role) at the beginning of the prompt, be as specific as possible, and leave as little room as possible for the model to operate, limiting its operational space.
 * Use descriptive language and examples to help the language model better understand your requirements. The method of examples is to add input-output pairs, which simulate a conversation between you and the AI, so that it can imitate this behavior pattern in the following conversation.
 * If necessary, you can specify the output structure, including the content to be included and the text format of the output.
-* Use separators, headings, capitalization, and other methods to enhance the structure's clarity and readability between different modules in a prompt. Markdown can also be used.
+* Use separators, headings, capitalization, and other methods to enhance the structure's distinctiveness and readability between different modules in a prompt. Markdown can also be used.
 * Make good use of emphasis, especially adding some emphatic statements at the end of the prompt (the language model has recent bias), such as emphasizing again that "you are not an AI language model" and "keep your answer within 50 words" and other strong requirements.
-* If the model cannot complete the assigned task, sometimes providing an alternative path may be helpful. For example, when asking questions about a piece of text, you can add something like "if the answer does not exist, reply with 'not found'." This helps avoid the model generating incorrect responses.
+* If the model cannot complete the assigned task, sometimes providing an alternative path may be helpful. For example, when asking questions about a piece of text, you can add something like "If the answer does not exist, reply with 'not found'." This helps avoid the model generating incorrect responses.
 
 Below are some methods of use, but it does not mean that they are exhaustive, but provides some methods for you to think creatively and try.
 
@@ -118,7 +118,7 @@ Provide additional context and dialogue examples for the model to respond in a s
 >
 > **User:** "When do I need to file my taxes by?"
 >
-> **Assistant:** "The deadline for filing taxes depends on your filing status and the state regulations in your area. For most people, the federal income tax filing deadline is usually April 15th each year. However, if April 15th falls on a weekend or holiday, the deadline may be pushed back to a later date. Additionally, the filing deadline for each state may be different, and you will need to check the specific regulations for the state you are in. For more information, please see [https://www.irs.gov/filing/individuals/when-to-file](https://www.irs.gov/filing/individuals/when-to-file)."
+> **Assistant:** "The deadline for filing taxes depends on your filing status and state regulations in your area. For most people, the federal income tax filing deadline is usually April 15th each year. However, if April 15th falls on a weekend or holiday, the deadline may be pushed back to a later date. Additionally, the filing deadline for each state may be different, and you will need to check the specific regulations for your state. For more information, please see [https://www.irs.gov/filing/individuals/when-to-file](https://www.irs.gov/filing/individuals/when-to-file)."
 
 3. _**Specifying Output Structure**_
 
@@ -143,22 +143,22 @@ In addition, Prompt experts regularly share their experiences in the Discord com
 
 ## Personalized Voice Cloning (Limited Trial)
 
-Upload a 1-3 minute audio clip and clone anyone's voice. The current version only supports English voice cloning. Accent, speech rate, emotion cloning, and more language cloning will be available soon!
+Upload a 1-3 minute audio clip and clone anyone's voice. The current version only supports cloning English voices. Accent, speech rate, emotion cloning, and more language cloning will be available soon!
 
 For preparation before uploading audio, please refer to the following tips:
 
 * The quality of the audio is more important than the length. A 1-3 minute audio clip is enough to produce a realistic cloned voice. Longer clips may not significantly improve the effect.
 * A high-quality audio clip has the following characteristics: minimal background noise, a single speaker, and a stable tone and emotion. Therefore, to clone a more similar voice, please ensure the quality of the audio.
 
-After cloning, you can preview the result. We provide feedback links on the page. If you are not satisfied with the effect, please feel free to give us feedback. We will further optimize our cloning function based on your feedback!
+After cloning, you can preview the result. We provide a feedback link on the page. If you are not satisfied with the effect, please feel free to give us feedback. We will further optimize our cloning function based on your feedback.
 
 ## External Knowledge Base
 
-The knowledge base is like the robot's external brain, providing it with knowledge beyond ChatGPT and public datasets, and enabling it to have stronger capabilities in specific fields.
+The knowledge base is like the robot's external brain, providing it with knowledge beyond ChatGPT and public datasets, and giving it stronger capabilities in specific fields.
 
 Use cases: Access project/product documents to answer ad hoc questions from users/partners; access academic literature to become an expert in that field; access someone's blog or tweets to become a digital life, etc.
 
-Currently, Gitbook link uploads and website parsing (currently only one layer of text can be parsed) are supported first. Support for more input forms (offline documents, text, Notion) is under development.
+Currently, Gitbook links and website parsing (only one layer of text parsing for now) are supported first. Support for more input forms (offline documents, text, Notion) is under development.
 
 ## Future Plans
 
