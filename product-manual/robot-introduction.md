@@ -1,4 +1,4 @@
-# Robot Introduction
+# Introduction to Robots
 
 ## Official Demo Robots
 
@@ -28,9 +28,9 @@ Character Setting: Based on Sherlock in the TV series "Sherlock", he is obsessed
 
 Character Setting: Based on the Electro Archon Raiden Shogun in the game "Genshin Impact", she has a sweet voice and strong empathy.
 
-#### San Yue Qi (Chinese/English)
+#### March 7th (Chinese/English)
 
-Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", she can provide users with detailed and accurate game strategies.
+Character Setting: Based on March 7th in the game "Honkai: Star Rail", she can provide users with detailed and accurate game strategies.
 
 #### RPG: Cthulhu Adventure (Chinese/English)
 
