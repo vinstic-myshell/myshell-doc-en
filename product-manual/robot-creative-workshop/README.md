@@ -27,13 +27,13 @@ Some specific examples and dialogue effects are as follows:
 
 **Dialogue effect**: Realistically imitates Rick Sanchez's "arrogant" and "sarcastic" way of speaking and incorporates his background story (as shown in the figure below)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Input**: "SpongeBob SquarePants"
 
 **Dialogue effect**: Realistically imitates SpongeBob SquarePants' innocent and cute way of speaking and incorporates SpongeBob SquarePants' character experience (as shown in the figure below)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Please note that during the expansion of the Prompt, network access may be required. For characters after 2021, the waiting time may be longer. If you encounter a failure, please try again in two minutes or join our official [Discord](https://discord.com/invite/XQ7Tx8qEwg) community to ask questions directly!
 
@@ -49,7 +49,7 @@ Some specific scenarios and effects are as follows:
 
 **Dialogue effect**: As an exclusive English teacher, Kira will actively inquire about her situation and arrange follow-up learning plans.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Scenario**: Role-playing game
 
@@ -57,7 +57,7 @@ Some specific scenarios and effects are as follows:
 
 **Response:** The bot has already imagined an exciting RPG game plot with just one sentence, leading players on an adventure!
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Scene:** Tool Bot
 
@@ -65,7 +65,7 @@ Some specific scenarios and effects are as follows:
 
 **Response:** The bot will help generate more attractive copy based on the topic provided by the user!
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The above lists some common use cases. Feel free to explore more possibilities and create your own custom bot! Additionally, a good bot is born through continuous debugging. When you define a bot through automated prompts, its complete prompt will be displayed for further modification. If the desired effect is not achieved after debugging, come and learn advanced knowledge.
 
