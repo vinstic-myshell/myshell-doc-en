@@ -20,4 +20,4 @@
 
 **Bonus Points:**
 
-Having your own technology blog or mature works on GitHub.
+Having your own technical blog or mature works on GitHub.

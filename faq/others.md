@@ -25,7 +25,7 @@ Currently, Discord does not have voice information, so only the customer service
 There are several ways to get the limited 10,000 MyShell Genesis Pass:
 
 1. Earn Shell points by completing tasks in the MyShell reward center and redeem them with Shell points;
-2. Participate in the White List activities of Web3 cooperative communities, which will be announced in the Discord channel and can also be found on [Broken link](broken-reference "mention");
+2. Participate in the White List activities of Web3 cooperative communities, which will be announced in the Discord channel and can also be found in [Broken link](broken-reference "mention");
 3. Participate in community contribution tasks, which will be posted in the Apply-to-join channel in Discord or in the builders channel. The builders channel requires an introduction of yourself in the Apply-to-join channel and pass the review. These tasks include internal testing, secondary creation, forwarding Twitter, etc. Depending on the difficulty of the task, different rules may be adopted for lottery or direct distribution;
 4. Through community purchases or waiting for NFT platform purchases in the future.
 
@@ -57,4 +57,4 @@ If you are using the system's built-in Safari browser, it is recommended that yo
 
 #### After entering two voice messages, it prompts that the voice cannot be collected. How to solve it?
 
-Please check if you are using an IOS device. Due to IOS's security policy issues, you need to regularly re-authorize the recording permission of the webpage. Please try to refresh the page and agree to authorize in the pop-up authorization notification. If the problem is still not resolved, it is recommended that you use it on the desktop version.
+Please check if you are using an IOS device. Due to IOS's security policy issues, you need to regularly re-authorize the recording permission of the webpage. Please try to refresh the page and agree to authorize in the pop-up authorization notification. If the problem is still not resolved, it is recommended that you use it on the desktop.

@@ -11,9 +11,9 @@ You can create your own robot in just five minutes!
 
 ## Definition
 
-The robot definition is the most critical parameter setting (Prompt) for the robot. It allows you to define the robot's role, function, and even conversation style. MyShell supports the simplest way to define roles and automatically generates a complete and comprehensive Prompt for the robot.
+Robot definition is the most critical parameter setting (Prompt) for the robot. It allows you to define the robot's role, function, and even conversation style. MyShell supports the simplest way to define roles and automatically generates a complete and comprehensive Prompt for the robot.
 
-### Automated Prompt (highly recommended)
+### Automated Prompt (strongly recommended)
 
 Automated Prompt is an innovative Prompt generator launched by MyShell. You can have a knowledgeable, characterful, and conversational robot by simply defining the bot's identity. There are currently two main ways to define:
 
@@ -35,7 +35,7 @@ Some specific examples and dialogue effects are as follows:
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Please note that during the expansion of the Prompt, network access may be required. For characters after 2021, the waiting time may be longer. If you encounter a failure, please try again in two minutes or join our official [Discord](https://discord.com/invite/XQ7Tx8qEwg) community to ask questions directly!
+Please note that network access may be required during the expansion of the Prompt. For characters after 2021, the waiting time may be longer. If you encounter a failure, please try again in two minutes or ask directly in our official [Discord](https://discord.com/invite/XQ7Tx8qEwg) community!
 
 _**Through description definition**_
 
@@ -47,7 +47,7 @@ Some specific scenarios and effects are as follows:
 
 **Input**: "Kira, an experienced English teacher who can help me improve my English"
 
-**Dialogue effect**: As an exclusive English teacher, Kira will actively inquire about her situation and arrange follow-up learning plans.
+**Dialogue effect**: As an exclusive English teacher, Kira will actively inquire about the situation and arrange follow-up learning plans.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ Some specific scenarios and effects are as follows:
 
 **Response:** The bot has already imagined an exciting RPG game plot with just one sentence, leading players on an adventure!
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Scene:** Tool Bot
 
@@ -75,13 +75,13 @@ For users with more complex needs, we also provide a more detailed usage of prom
 
 * The essence of a prompt is to trigger an AI language model to play a fill-in-the-blank game with you. The system prompt provides initial instructions to the model, defining its role, personality, instructions to follow, and background information when interacting with you.
 * Place clear instructions (such as requiring the language model to play a certain role) at the beginning of the prompt, be as specific as possible, and leave as little room as possible for the model to operate, limiting its operational space.
-* Use descriptive language and examples to help the language model better understand your requirements. The method of examples is to add input-output pairs, which simulate a conversation between you and the AI, so that it can imitate this behavior pattern in the following conversation.
-* If necessary, you can specify the output structure, including the content to be included and the text format of the output.
-* Use separators, headings, capitalization, and other methods to enhance the structure's distinctiveness and readability between different modules in a prompt. Markdown can also be used.
-* Make good use of emphasis, especially adding some emphatic statements at the end of the prompt (the language model has recent bias), such as emphasizing again that "you are not an AI language model" and "keep your answer within 50 words" and other strong requirements.
-* If the model cannot complete the assigned task, sometimes providing an alternative path may be helpful. For example, when asking questions about a piece of text, you can add something like "If the answer does not exist, reply with 'not found'." This helps avoid the model generating incorrect responses.
+* Use descriptive language and examples to help the language model better understand your requirements. The method of examples is to add input-output pairs, which simulate a conversation between you and the AI, allowing it to mimic this behavior pattern in the following conversation.
+* If necessary, specify the output structure, including the content to be included and the text format of the output.
+* Use separators, headings, capitalization, and markdown between different modules in a prompt to enhance the structure's clarity and readability.
+* Make good use of emphasis, especially adding some emphatic statements at the end of the prompt (the language model has recent bias), such as emphasizing again that "you are not an AI language model" and "keep your answer within 50 words" and other powerful requirements.
+* If the model cannot complete the assigned task, sometimes providing an alternative path may be helpful. For example, when asking a question about a piece of text, you can add something like "if the answer does not exist, reply with 'not found'." This helps avoid the model generating incorrect responses.
 
-Below are some methods of use, but it does not mean that they are exhaustive, but provides some methods for you to think creatively and try.
+The following will introduce some methods of use, but it does not mean that it is exhaustive, but provides some methods for you to try creatively.
 
 1. _**Applications in non-chat scenarios**_
 
@@ -89,9 +89,9 @@ For example, in some classification scenarios, specific rules can be set for the
 
 > **System Prompt:** You are an assistant tasked with analyzing emotions in speech data. The user will paste a piece of text, and you will evaluate the speaker's response. Give a rating of 1-10 (10 being the highest). Explain the reason for the rating.
 >
-> **User:** Hi, thank you for calling Contoso Pharmacy. Who am I speaking with today? I understand your frustration, Mary. Can you tell me what goal you're trying to achieve? Okay, great, let me take a look for you. I see here that you used regular Liptor, is that correct? Okay, so I see that your doctor stopped prescribing these drugs in 2021. Is that correct? Okay, let me check for you. Sometimes there are gaps in the system that are not reported. Please wait a moment while I check to see if there are any records here. So according to the latest records provided to us by the doctor's office, your doctor prescribed these drugs from 2012 to 2021. Okay, according to the latest records, your doctor has now switched to a different type of drug - Metformin. Would you like us to prepare and dispense a 500mg Metformin prescription for you? You're welcome, Mary. Is there anything else we can help you with today?
+> **User:** Hi, thank you for calling Contoso Pharmacy. Who am I speaking with today? I understand your frustration, Mary. Can you tell me what goal you're trying to achieve? Okay, great, let me take a look for you. I see here that you used regular Lipitor, is that correct? Okay, so I see that your doctor stopped prescribing these drugs in 2021. Is that correct? Okay, let me check for you. Sometimes there are gaps in the system that are not reported. Please wait a moment while I check to see if there are any records here. So according to the latest records provided to us by the doctor's office, your doctor prescribed these drugs from 2012 to 2021. Okay, according to the latest records, your doctor has now switched to a different type of drug - metformin. Would you like us to prepare and dispense a 500mg metformin prescription for you? You're welcome, Mary. Is there anything else we can help you with today?
 >
-> **Assistant:** Emotional rating: 8
+> **Assistant:** Emotion rating: 8
 >
 > The speaker in this text seems polite, helpful, and patient when addressing customer concerns. They take the time to check information, provide clear explanations, and offer assistance. However, the rating is not 10 because there are still hints of uncertainty in some parts of the conversation, which may not convey complete confidence to the customer.
 
@@ -118,7 +118,7 @@ Provide additional context and dialogue examples for the model to respond in a s
 >
 > **User:** "When do I need to file my taxes by?"
 >
-> **Assistant:** "The deadline for filing taxes depends on your filing status and state regulations in your area. For most people, the federal income tax filing deadline is usually April 15th each year. However, if April 15th falls on a weekend or holiday, the deadline may be pushed back to a later date. Additionally, the filing deadline for each state may be different, and you will need to check the specific regulations for your state. For more information, please see [https://www.irs.gov/filing/individuals/when-to-file](https://www.irs.gov/filing/individuals/when-to-file)."
+> **Assistant:** "The deadline for filing taxes depends on your filing status and the state regulations in your area. For most people, the federal income tax filing deadline is usually April 15th each year. However, if April 15th falls on a weekend or holiday, the deadline may be pushed back to a later date. Additionally, the filing deadline for each state may be different, and you will need to check the specific regulations for your state. For more information, please see [https://www.irs.gov/filing/individuals/when-to-file](https://www.irs.gov/filing/individuals/when-to-file)."
 
 3. _**Specifying Output Structure**_
 
@@ -130,12 +130,12 @@ Using prompts to specify output structure can greatly help improve the quality o
 >
 > **Assistant:** Here are the different behaviors exhibited by customer support representatives in various conversations:
 >
-> 1. Politeness and friendliness ("Building relationships"): Customer support representatives greet customers and communicate with them in a friendly tone at the beginning of the conversation, which helps to build a relationship with the customer and increase customer satisfaction.
+> 1. Politeness and friendliness ("Building rapport"): Customer support representatives greet customers and communicate with them in a friendly tone at the beginning of the conversation, which helps to build a relationship with the customer and increase customer satisfaction.
 > 2. Inquiring about customer needs ("Understanding customer needs"): Customer support representatives ask customers about their questions and needs in order to provide help and solutions.
 > 3. Confirming customer information ("Verifying information"): Customer support representatives verify customers' personal and order information to ensure that they can provide the correct help and solutions.
 > 4. Checking system records ("Finding information"): Customer support representatives search system records to obtain information and history about customers and determine the best solution.
 > 5. Providing solutions ("Solving problems"): Customer support representatives provide solutions to help customers solve their problems or needs.
-> 6. Inquiring about customer satisfaction ("Understanding customer feedback"): Customer support representatives ask customers if they are satisfied with the help and solutions provided, and record customer feedback for improvement.
+> 6. Inquiring about customer satisfaction ("Understanding customer feedback"): Customer support representatives ask customers if they are satisfied with the help and solutions provided, and record their feedback for improvement.
 >
 > The reasons behind these behaviors are to build good customer relationships, understand customer needs and problems, provide the correct solutions, and obtain customer feedback for improvement. These behaviors help to increase customer satisfaction and loyalty, and increase the company's business success rate.
 
@@ -143,28 +143,26 @@ In addition, Prompt experts regularly share their experiences in the Discord com
 
 ## Personalized Voice Cloning (Limited Trial)
 
-Upload a 1-3 minute audio clip and clone anyone's voice. The current version only supports cloning English voices. Accent, speech rate, emotion cloning, and more language cloning will be available soon!
+Upload a 1-3 minute audio clip and clone anyone's voice. The current version only supports English voice cloning. Accent, speech rate, emotion cloning, and more language cloning will be available soon!
 
 For preparation before uploading audio, please refer to the following tips:
 
 * The quality of the audio is more important than the length. A 1-3 minute audio clip is enough to produce a realistic cloned voice. Longer clips may not significantly improve the effect.
 * A high-quality audio clip has the following characteristics: minimal background noise, a single speaker, and a stable tone and emotion. Therefore, to clone a more similar voice, please ensure the quality of the audio.
 
-After cloning, you can preview the result. We provide a feedback link on the page. If you are not satisfied with the effect, please feel free to give us feedback. We will further optimize our cloning function based on your feedback.
+After cloning, you can listen to the result and provide feedback through the feedback link on the page. If you are not satisfied with the effect, please feel free to give us feedback. We will further optimize our cloning function based on your feedback!
 
 ## External Knowledge Base
 
-The knowledge base is like the robot's external brain, providing it with knowledge beyond ChatGPT and public datasets, and giving it stronger capabilities in specific fields.
+The knowledge base is like the robot's external brain, providing it with knowledge beyond ChatGPT and public datasets, and enabling it to have stronger capabilities in specific fields. For more details, please refer to the following document:
 
-Use cases: Access project/product documents to answer ad hoc questions from users/partners; access academic literature to become an expert in that field; access someone's blog or tweets to become a digital life, etc.
-
-Currently, Gitbook links and website parsing (only one layer of text parsing for now) are supported first. Support for more input forms (offline documents, text, Notion) is under development.
+[external-knowledge-base.md](external-knowledge-base.md "mention")
 
 ## Future Plans
 
 * An almost infinite memory bank (expected in 2023 H2).
 * Internet and API access capabilities (expected in 2023 H2).
-* Other models with more modalities (expected in 2023 H2).
+* Other models with more modes (expected in 2023 H2).
 * Fine-tuning model training with additional language data (expected in 2023 H2).
 
-Creating custom robots as advanced interactions with the MyShell platform will receive our airdrop (Token). In addition, the creators of the bots will receive Shell Tokens as economic rewards from user interactions.
+Creating a custom robot as an advanced interaction with the MyShell platform will receive our airdrop (Token). In addition, the creators of the subsequent bots will receive Shell Tokens as economic rewards from user interactions.

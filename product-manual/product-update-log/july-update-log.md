@@ -48,20 +48,20 @@ S1 Season Prize Redemption is now open! (Please note that the recent season is s
 ### 20230705
 
 * The reward center now offers task value and point redemption functions! This test season will end on July 12, 2023, at 23:59 (UTC-4). At that time, you can redeem membership benefits and mysterious prizes! 
-* The style of sharing chat record images has been optimized, and new users who register by scanning the QR code will be counted as the inviter. 
-* Successful prompts have been added when publishing/unpublishing bots. 
+* Style optimization for sharing chat record images, and new users who register by scanning the QR code will be counted as the inviter. 
+* Successful prompt added when publishing/unpublishing bots. 
 * Fixed display issues with markdown replies. 
-* Fixed the issue of wallet connect failure.
+* Fixed wallet connect failure issue.
 
 ### 20230701
 
 Major update: Reward Center and new membership system
 
 * MyShell point system is now online, and we will use the point season system to allow everyone to play and earn on the platform! The first season will start from July 1, 2023, at 0:00 (UTC-4) to July 15, 2023, at 23:59 (UTC-4). You can earn a lot of points by completing tasks in the first 12 days of the season. Although point redemption is not yet available, all task completion rates will be automatically recorded, and you can accumulate them when we open point redemption! 
-* When there are 3 days left in the season, we will open the point redemption mall. At the same time, the season points will no longer be available, and new points earned from completing tasks will accumulate for the next season. In the redemption mall, you can use points to redeem rich rewards, including power cards, our new membership card, and even the Genesis Pass! 
-* New membership system: Basic Battle Pass, Standard Battle Pass, and Genesis Pass. The three types of members will have corresponding privileges (trial run stage, may change in the future). In S1 season, we will offer a free trial of the Standard Battle Pass for the entire site. We hope that everyone can use the S1 free trial to earn more points and redeem more long-term privileges!
+* Three days before the end of the season, we will open the point redemption mall. At the same time, the season points will no longer be available, and new points earned from completing tasks will accumulate for the next season. In the redemption mall, you can use points to redeem rich rewards, including power cards, our new membership card, and even the Genesis Pass! 
+* New membership system: Basic Battle Pass, Standard Battle Pass, and Genesis Pass. The three memberships will have different privileges (trial run stage, subject to change in the future). In S1 season, we will offer a free trial of the Standard Battle Pass for the entire site. We hope that everyone can use the S1 free trial to earn more points and redeem more long-term privileges!
 
 Other optimizations:
 
 * Italics in bot replies will no longer be read out by voice. 
-* The character limit for bot descriptions has been expanded.
+* Character input limit in bot description has been expanded.
