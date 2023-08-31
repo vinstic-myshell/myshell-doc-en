@@ -98,7 +98,7 @@ The robot workshop supports users to customize bot TTS through voice cloning.
 
 <summary>Robot support for use in other IM software</summary>
 
-The MyShell.ai creative workshop will be able to support the deployment of robots to other social platforms, and users can bind social accounts on their side. Through the bound social accounts, member rights can be extended to robots on their social media, already supporting Telegram, and will support Discord and other platforms in the future.
+The MyShell.ai creative workshop will be able to support the deployment of robots to other social platforms, while users can bind social accounts on their side, and through the bound social accounts, member rights can be extended to robots on their social media, already supported by Telegram, and will support other platforms such as Discord in the future.
 
 </details>
 

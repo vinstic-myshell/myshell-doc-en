@@ -31,7 +31,7 @@ Some specific examples and dialogue effects are as follows:
 
 **Input**: "SpongeBob SquarePants"
 
-**Dialogue effect**: Realistically imitates SpongeBob SquarePants' innocent and cute way of speaking and incorporates SpongeBob SquarePants' character experience (as shown in the figure below)
+**Dialogue effect**: Realistically imitates SpongeBob SquarePants' innocent and cute way of speaking and incorporates SpongeBob's character experience (as shown in the figure below)
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 

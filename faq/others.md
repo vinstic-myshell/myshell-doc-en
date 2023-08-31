@@ -35,7 +35,7 @@ Effective invitation is the most direct way of community contribution. When the 
 
 Effective invitation refers to the registered users you invite who have specific behavioral characteristics and are judged as effective invitations.
 
-In order to prevent cheating, the rules for judgment will not be made public. If there are too many cheating cases, the rules will become stricter and more difficult to understand. At the same time, cheating behavior may cause a series of your accounts and devices to be banned and no longer allowed to access.
+In order to prevent cheating, the rules for judgment will not be made public. If there are too many cheating cases, the rules will become stricter and more difficult to understand. At the same time, cheating behavior may result in a series of your accounts and devices being banned and no longer allowed to access.
 
 #### Are there more project introductions?
 

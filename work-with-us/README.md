@@ -12,4 +12,4 @@ We are always looking for talented individuals to join our team. If you are pass
 
 ## How to Apply
 
-To apply for any of our current openings, please send your resume and a cover letter to [email protected] We look forward to hearing from you!
+To apply for any of our current openings, please send your resume and a cover letter to careers@company.com. We look forward to hearing from you!
