@@ -34,10 +34,10 @@ Privileges: Early access to some powerful beta features, easier access to platfo
 
 Acquisition Method:
 
-1. Earn Shell points by completing tasks in the MyShell Rewards Center and redeem them with Shell points;
-2. Participate in White List activities in Web3 cooperative communities, which will be announced in the Discord channel and can also be found on [Broken link](broken-reference "mention");
-3. Participate in community contribution tasks, which will be posted in the Apply-to-join channel in Discord or in the builders channel. To enter the builders channel, you need to introduce yourself in the Apply-to-join channel and pass the review. These tasks include internal testing, secondary creation, retweeting Twitter, etc. Depending on the difficulty of the task, different rules may be used for lottery or direct distribution;
-4. Purchase through community purchases or on NFT platforms;
+1. Earn Shell points by completing tasks in the MyShell Rewards Center and redeem them for Genesis Pass.
+2. Participate in White List activities in Web3 cooperative communities, which will be announced in the Discord channel and can also be found on [Broken link](broken-reference "mention").
+3. Participate in community contribution tasks, which will be posted in the Apply-to-join channel or the builders channel in Discord. To enter the builders channel, you need to introduce yourself in the Apply-to-join channel and pass the review. These tasks include internal testing, secondary creation, retweeting Twitter, etc. Depending on the difficulty of the task, different rules may be used for lottery or direct distribution.
+4. Purchase through community purchases or on NFT platforms.
 
 #### Shell Token ($SHEL)
 
@@ -45,10 +45,10 @@ It is the currency that users and creators use to obtain and use in the Myshell 
 
 Usage:
 
-1. Upgrade the subscription level of the robot to obtain higher-level functions;
+1. Upgrade the subscription level of the robot to obtain higher-level functions.
 2. The robot pays task rewards to users (when the initial development fund is insufficient).
 
 Acquisition Method:
 
 1. (Users) Earn by completing tasks issued by the robot. (TBD)
-2. (Creators) List the robot on the MyShell platform, collect Shell Tokens for user subscriptions and upgrades to the robot. (TBD)
+2. (Creators) List the robot on the MyShell platform and collect Shell Tokens for user subscriptions and robot upgrades. (TBD)

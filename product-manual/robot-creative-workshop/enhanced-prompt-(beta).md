@@ -86,13 +86,13 @@ When the suffix is used as a global rule and placed at both ends of the user's i
 
 In general, the chatbot's performance after using the automatically generated Enhanced Prompt is better than before.
 
-Before the enhancement, the chatbot's overall performance was distributed between "normal" and "good". After the automatic enhancement, its performance usually improves by one level.
+Before enhancement, the chatbot's overall performance is distributed between "normal" and "good". After automatic enhancement, its performance usually improves by one level.
 
-However, for users who manually modify the Enhanced Prompt, the performance range of their chatbot will be greatly widened: it may reach the peak, or it may deteriorate to the bottom, depending entirely on the creator's level of prompt.
+However, for users who manually modify the Enhanced Prompt, the performance range of their chatbot will be greatly widened: it may reach the peak, or it may deteriorate to the bottom, depending entirely on the prompt level of the creator.
 
 <figure><img src="../../.gitbook/assets/用户教育示意图-5.png" alt=""><figcaption></figcaption></figure>
 
-In short, Enhanced Prompt can push the performance limit of your chatbot, but it may also cause a decline in performance. If you think that Enhanced Prompt is causing a decline in performance, please turn off this feature or seek help from the community on Discord.
+In short, Enhanced Prompt can push the performance limit of your chatbot, but it may also cause performance degradation. If you think that Enhanced Prompt is causing performance degradation, please turn off this feature or seek help from the community on Discord.
 
 ### Explanation of Enhanced Prompt Switch
 
@@ -106,9 +106,9 @@ The switch of the prefix or suffix has no direct relationship with the quality o
 
 The length of the prefix and suffix is not directly proportional to the quality of the chatbot's conversation.
 
-In most cases, an Enhanced Prompt within a few sentences can bring a qualitative improvement to the chatbot's ability.
+In most cases, Enhanced Prompt within a few sentences can bring a qualitative improvement to the chatbot's ability.
 
-However, a too long Enhanced Prompt may make it difficult for the chatbot to capture the user's real output, resulting in a decline in quality.
+However, too long Enhanced Prompt may make it difficult for the chatbot to capture the user's real output, resulting in a decrease in quality.
 
 <figure><img src="../../.gitbook/assets/用户教育示意图-6.png" alt=""><figcaption></figcaption></figure>
 
@@ -116,7 +116,7 @@ However, a too long Enhanced Prompt may make it difficult for the chatbot to cap
 
 Different structures of Enhanced Prompt will produce different effects.
 
-* Change the ratio of the length of the Enhanced Prompt prefix and suffix
+* Change the length ratio of the Enhanced Prompt prefix and suffix
 * Swap the position of specific instructions of the Enhanced Prompt prefix and suffix
 * …………………………More ways for you to explore
 

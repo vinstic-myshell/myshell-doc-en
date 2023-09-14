@@ -47,7 +47,7 @@ Editing page:
 
 [Content Update] After the page is publicly released, "Share" in the upper right corner of the page will be changed to "Edit". If you need to edit the content, you can click "Edit" to enter the editing page. After editing, click "Merge", and the updated content will be automatically synchronized.
 
-#### Fill your bot with fresh and hot knowledge base in 5 minutes | Easily grab network materials
+#### Fill your bot with fresh knowledge base in 5 minutes | Easily grab network materials
 
 1. **Grab the webpage and get the material**: HTTrack Website Copier. Just enter the webpage you want to grab, and this tool will download all the content of this webpage and its sub-webpages. Tool download link: [https://www.httrack.com/page/2/](https://www.httrack.com/page/2/)&#x20;
 2. **Import to Gitbook and feed in batches**. The content captured by the small tool is in html format. You need to copy all the required html to a folder, compress it into a .zip file, and then use Gitbook's batch import function! (Already edited)

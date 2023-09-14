@@ -58,7 +58,7 @@ Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voic
 
 #### PointPal · Voice Notes
 
-Take the time of a cup of coffee to easily record your ideas and opinions, capture and summarize key points, and convert them into clear notes.
+Take the time of a cup of coffee to easily record your ideas and viewpoints, capture and summarize the key points, and convert them into clear notes.
 
 #### MotivateMe
 
