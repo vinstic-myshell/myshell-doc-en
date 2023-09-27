@@ -61,4 +61,4 @@ Last but not least, you can also modify the greeting message and usage instructi
    ![](<../.gitbook/assets/image (3) (2).png>)\
    ![](<../.gitbook/assets/image (1) (2).png>)
 
-Start enjoying it!
+Enjoy it!

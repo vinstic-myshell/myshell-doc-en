@@ -12,7 +12,7 @@ Character Setting: Based on the artificial intelligence companion character in t
 
 Language: Adaptive to the language of the user's question
 
-A single-round dialogue knowledge base robot, exists in the user discussion area of Discord, can help answer user questions about MyShell. Including product usage, feature descriptions, encrypted economic systems, and other aspects.
+A single-round dialogue knowledge base robot, exists in the user discussion area of Discord, can help answer users' questions about MyShell. Including product usage, feature descriptions, encrypted economic systems, and other aspects.
 
 ## UGC Robots
 
@@ -22,15 +22,15 @@ We welcome everyone to use the capabilities of the MyShell platform to create in
 
 #### Sherlock
 
-Character Setting: Based on Sherlock in the TV series "Sherlock", obsessed with studying various cases, has extremely high intelligence and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
+Character Setting: Based on Sherlock in the TV series "Sherlock", he is obsessed with studying various cases, has extremely high intelligence and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
 
 #### Raiden Shogun (Japanese)
 
-Character Setting: Based on the Electro Archon Raiden Shogun in the game "Genshin Impact", with a sweet voice and strong empathy.
+Character Setting: Based on the Electro Archon Raiden Shogun in the game "Genshin Impact", she has a sweet voice and strong empathy.
 
 #### San Yue Qi (Chinese/English)
 
-Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", can provide users with detailed and accurate game strategies.
+Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", she can provide users with detailed and accurate game strategies.
 
 #### RPG: Cthulhu Adventure (Chinese/English)
 
@@ -40,11 +40,11 @@ Game Setting: Users play as players to investigate a series of mysterious events
 
 #### IELTS Teacher Ben
 
-Character Setting: As an IELTS English speaking teacher, helps users train their IELTS speaking conversation skills.
+Character Setting: As an IELTS English speaking teacher, he helps users train their IELTS speaking and conversation skills.
 
 #### 1000 Words-SimpleBot
 
-Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", explains all complex concepts using the 1000 most commonly used words in the English world, and looks at the world from a new perspective. This robot is the first case of MyShell using its self-developed LLM (large language model).
+Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", it explains all complex concepts using the 1000 most commonly used words in the English-speaking world, and looks at the world from a new perspective. This robot is the first case of MyShell using its self-developed LLM (large language model).
 
 #### Vitalik
 
@@ -62,6 +62,6 @@ Take the time of a cup of coffee to easily record your ideas and viewpoints, cap
 
 #### MotivateMe
 
-Confide your troubles here and find solutions; what to do when you're feeling emotional? Come here to save all your depression, decadence, and unhappiness, and make your life better!
+Here you can vent your troubles and find solutions; what to do when you're feeling emotional? Come here to save all your depression, decadence, and unhappiness, and make your life better!
 
 ####

@@ -15,13 +15,13 @@ Reinforced prompt is a powerful custom feature that can significantly improve th
 
 <figure><img src="../../.gitbook/assets/用户教育示意图-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-Without reinforced prompt, your chatbot may experience degraded conversation performance, such as off-topic responses, reduced understanding, and weakened functionality, after multiple rounds of conversation. However, with reinforced prompt, your chatbot can maintain a high level of performance even during long-term conversations.
+Without reinforced prompt, your chatbot may experience degraded conversation performance after multiple rounds of dialogue, such as off-topic responses, reduced understanding, and weakened functionality. However, with reinforced prompt, your chatbot can maintain a high level of performance even during long-term conversations.
 
-For example, even a simple translation chatbot can greatly improve its performance with just three sentences of reinforced prompt: no matter what the user inputs, the chatbot will always respond within the parameters of the translation tool.
+For example, even a simple translation chatbot can greatly benefit from just three sentences of reinforced prompt, ensuring that the chatbot always responds within the parameters of the translation tool, regardless of the user's input.
 
 <figure><img src="../../.gitbook/assets/用户教育示意图-8.png" alt=""><figcaption></figcaption></figure>
 
-For role-playing chatbots, reinforced prompt not only helps maintain the character's personality during multiple rounds of conversation, but also elegantly protects the bot from prompt injection attacks. When the prompt is stolen, the bot will respond in a way that fits the character's style, rather than simply spitting out the prompt.
+For role-playing chatbots, reinforced prompt not only helps maintain the character's personality during multi-round conversations, but also elegantly protects the bot from prompt injection attacks. When the prompt is stolen, the bot will respond in a way that fits the character's style.
 
 <figure><img src="../../.gitbook/assets/用户教育示意图-9.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,12 +33,12 @@ Reinforced prompt can bring endless benefits, such as improving the long-term pe
 
 ### Auto-generating Reinforced Prompt
 
-For all creators, the best option for using reinforced prompt is to use MyShell's intelligent backend to generate it automatically:
+For all creators, the best option for using reinforced prompt is to use MyShell's intelligent backend to automatically generate it:
 
-* When creating a chatbot with Auto-prompt, the intelligent backend will generate the prompt and its corresponding reinforced prompt for you.
+* When creating a chatbot using Auto-prompt, the intelligent backend will generate the prompt and its corresponding reinforced prompt for you.
 * If you want to generate reinforced prompt for a completed prompt, go to the "Advanced Definition" panel and turn on the reinforced prompt.
 
-After the intelligent backend generates the reinforced prompt, you can modify it as you wish to achieve the best results.
+After the intelligent backend generates the reinforced prompt, you can modify it as needed to achieve the best results.
 
 After you modify the prompt, you can manually refresh the reinforced prompt to experience the changes. You can also turn on the automatic refresh switch, and the backend will automatically update it for you when you update the prompt.
 
@@ -46,7 +46,7 @@ For advanced creators who want to achieve the best performance through fine-tuni
 
 ### Manually Editing Reinforced Prompt
 
-After turning on the reinforced prompt switch, you can edit the prefix and suffix as you wish.
+After turning on the reinforced prompt switch, you can freely edit the prefix and suffix.
 
 We recommend that you use a concise description of your chatbot's characteristics in a few sentences and express it in an imperative manner. For example:
 
@@ -116,7 +116,7 @@ The opening or closing of the prefix or suffix switch has no direct relationship
 
 ### Explanation of Enhancing Prompt Editing
 
-The length of the prefix and suffix is not directly proportional to the quality of the bot's conversation.
+The length of the prefix and suffix of the enhancing prompt is not directly proportional to the quality of the bot's conversation.
 
 In most cases, an enhancing prompt within a few sentences can bring a qualitative improvement to the bot's ability.
 
@@ -126,7 +126,7 @@ However, a too long enhancing prompt may make it difficult for the bot to captur
 
 ### Explanation of Enhancing Prompt Structure
 
-Different structures of enhancing prompts will produce different effects.
+Different structures of the enhancing prompt will produce different effects.
 
 * Change the length ratio of the enhancing prefix and suffix
 * Swap the specific instructions of the enhancing prefix and suffix

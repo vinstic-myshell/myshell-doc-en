@@ -6,6 +6,7 @@
   * [Introduction to Robots](product-manual/robot-introduction.md)
   * [Membership System and Robot Benefits (Beta)](product-manual/membership-system-and-robot-benefits-(beta).md)
   * [Robot Creative Workshop](product-manual/robot-creative-workshop/README.md)
+    * [Robot Definition](product-manual/robot-creative-workshop/robot-definition.md)
     * [Knowledge Base](product-manual/robot-creative-workshop/knowledge-base.md)
     * [Advanced Features](product-manual/robot-creative-workshop/advanced-features.md)
   * [MyShell Points System (Alpha)](product-manual/myshell-points-system-(alpha).md)

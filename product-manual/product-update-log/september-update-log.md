@@ -4,7 +4,7 @@
 
 Optimization of Reward Center
 
-* Optimized the process of receiving premium membership: Previously, we found that many friends feedback that their battery was not enough but they had not yet received the season's premium membership. As they were not premium members, they could not accumulate points for the creators of their favorite bots. In this version, we have added more guidance, including guidance prompts when the battery is exhausted, and guidance pop-ups at the reward center, hoping that everyone can experience the benefits of premium membership while also allowing creators to obtain more sources of points.
+* Optimized the process of receiving premium membership: Previously, we found that many friends feedbacked that they did not have enough power but still did not receive the season's premium membership. Because they were not premium members, they could not accumulate points for the creators of their favorite bots. In this version, we have added more guidance, including guidance prompts when the power is exhausted, and guidance pop-ups at the reward center, hoping that everyone can experience the benefits of premium membership while also allowing creators to obtain more sources of points.
 * Optimized the guidance copy and provided sample references for novice tasks. New friends can now use the sample audio files we provide to quickly generate a realistic clone voice and get started quickly.
 * Optimized the display effect of unrevealed reward redemption points required for prizes.
 
