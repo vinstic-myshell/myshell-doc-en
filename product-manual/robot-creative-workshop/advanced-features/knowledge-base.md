@@ -6,29 +6,29 @@ The knowledge base is like an external brain for robots, providing them with kno
 
 **The knowledge base has a wide range of applications**:
 
-* Access project/product documentation for precise Q&A.
-* Access academic literature to become a domain expert.
-* Access blogs/tweets to build a digital life.
-* Access game/animation wikis for high-precision role-playing.
-* ...You can imagine more application scenarios!
+* Access to project/product documentation for precise Q&A.
+* Access to academic literature to become a domain expert.
+* Access to blogs/tweets to build a digital life.
+* Access to game/animation wikis for high-precision role-playing.
+* ...and more application scenarios as you can imagine!
 
 ## How to Use the Knowledge Base?
 
-In the robot's editing page, go to the "Knowledge Base" panel in "Advanced Settings", turn on the knowledge base switch, and import the link to connect the knowledge base to the robot.
+In the robot's editing page, go to the "Knowledge Base" panel in "Advanced Settings", turn on the knowledge base switch, and import the link to connect the robot to the knowledge base.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Currently supported link contents include:
 
 * [Gitbook](https://www.gitbook.com/)
 * [Docusaurus](https://docusaurus.io/)
-* Text-based ordinary web pages
+* Ordinary web pages with text content as the main content
 
 More input support is under development, so stay tuned.
 
 If you have a large amount of text content that requires multi-level parsing, please use [Gitbook](https://www.gitbook.com/) or [Docusaurus](https://docusaurus.io/). If you only need single-level parsing, import any text-rich web page.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 When you import, the status will first show "Importing", indicating that the web page is being parsed.
 

@@ -23,7 +23,7 @@ Requirements:
 * Experience collaborating with cross-functional teams and managing stakeholder expectations
 * Passion for technology and a deep understanding of user behavior and psychology
 
-If you are a results-driven product manager who is passionate about designing viral systems and has a deep understanding of overseas application development, we encourage you to apply.
+If you are a results-driven product manager with a passion for designing viral systems and a deep understanding of overseas application development, we encourage you to apply.
 
 Resume submission: rick@myshell.ai; Telegram: @x64rick
 
