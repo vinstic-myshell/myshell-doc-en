@@ -56,7 +56,7 @@ There are many treasures in MyShell's [Discord](https://discord.gg/myshellzh) se
 Here are a few examples of posts that have open-sourced all configurations:
 
 * [TheBestTranslator](https://app.myshell.ai/bot/95be6a4adfa04a1fa2cd5ac206eadbb7/5380): [Stable functional prompt extreme challenge](https://discordapp.com/channels/1085985874086469775/1144300682191581315).
-* [Emma | CEFR A2](https://app.myshell.ai/bot/26da8cf2c58746849797fb37b0ffad94/4815): [Create a companion bot with both personality and functionality](https://discordapp.com/channels/1085985874086469775/1156169173152571472).
+* [Emma | CEFR A2](https://app.myshell.ai/bot/26da8cf2c58746849797fb37b0ffad94/4815): [Create a companion bot with both personality and function](https://discordapp.com/channels/1085985874086469775/1156169173152571472).
 * [Serena](https://app.myshell.ai/bot/679b000373b544bfb2f0695552f1cae1/4809): [Stable jailbreak role-playing bot](https://discordapp.com/channels/1085985874086469775/1143939796297850931).
 
 In addition to the above examples, there are also a large number of experience accumulation and open-source prompts in the community, and you can go further on the shoulders of giants.

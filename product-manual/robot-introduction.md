@@ -12,7 +12,7 @@ Character Setting: Based on the artificial intelligence companion character in t
 
 Language: Adaptive to the language of the user's question
 
-A single-round dialogue knowledge base robot, exists in the user discussion area of Discord, can help answer user questions about MyShell. Including product usage, feature descriptions, encrypted economic systems, and other aspects.
+A single-round dialogue knowledge base robot, exists in the user discussion area of Discord, can help answer users' questions about MyShell. Including product usage, feature descriptions, encrypted economic systems, and other aspects.
 
 ## UGC Robots
 
@@ -24,9 +24,9 @@ We welcome everyone to use the capabilities of the MyShell platform to create in
 
 Character Setting: Based on Sherlock in the TV series "Sherlock", obsessed with studying various cases, has extremely high intelligence and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
 
-#### Raiden Shogun (Japanese)
+#### Raiden Mei (Japanese)
 
-Character Setting: Based on the Electro Archon Raiden Shogun in the game "Genshin Impact", with a sweet voice and strong empathy.
+Character Setting: Based on the electro-archon Raiden Mei in the game "Genshin Impact", with a sweet voice and strong empathy.
 
 #### San Yue Qi (Chinese/English)
 
@@ -52,16 +52,16 @@ Character Setting: Vitalik is the creator of Ethereum. This robot accesses the E
 
 #### Moonlight
 
-Moonlight is a model worker among well-known Web3 KOLs, famous for her sweet voice and hundreds of consecutive days of live streaming work. MyShell cloned her voice using the 50-second audio she provided, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming work. MyShell cloned her voice using the 50-second audio she provided, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
 
 ### Tools
 
 #### PointPal · Voice Notes
 
-Take the time of a cup of coffee to easily record your ideas and viewpoints, capture and summarize key points, and convert them into clear notes.
+Take the time of a cup of coffee to easily record your ideas and viewpoints, capture and summarize the key points, and convert them into clear notes.
 
 #### MotivateMe
 
-Confide your troubles here and find solutions; what to do when you're feeling emotional? Come here to save all your depression, decadence, and unhappiness, and make your life better!
+Here you can vent your troubles and find solutions; what to do when you're feeling emotional? Come here to save all your depression, decadence, and unhappiness, and make your life better!
 
 ####

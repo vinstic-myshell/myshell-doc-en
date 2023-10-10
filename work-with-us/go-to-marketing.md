@@ -29,7 +29,7 @@ Resume submission: rick@myshell.ai; Telegram: @x64rick
 
 ## Influencer Operations Manager
 
-We are looking for a highly self-motivated and experienced overseas KOL recruitment and operations specialist to join our team. As an important member of our team, you will be responsible for managing and executing KOL recruitment and operations globally and working closely with our internal teams to carry out entertainment and education projects.
+We are looking for a highly self-motivated and experienced overseas KOL recruitment and operations specialist to join our team. As an important member of our team, you will be responsible for managing and executing KOL recruitment and operations globally, and working closely with our internal teams to carry out entertainment and education projects.
 
 Job Description:
 

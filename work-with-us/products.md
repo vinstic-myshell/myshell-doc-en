@@ -2,7 +2,7 @@
 
 ## Strategy Product Manager
 
-We are looking for an experienced Strategy Product Manager with experience in designing viral, distribution, and task systems, as well as a deep understanding of the ecosystem of overseas application development. The ideal candidate will have a track record of successfully launching products and driving user growth through innovation and effective strategies.
+We are looking for an experienced Strategy Product Manager with experience in designing viral, distribution, and task systems, and a deep understanding of the ecosystem of overseas application development. The ideal candidate will have a track record of successfully launching products and driving user growth through innovation and effective strategies.
 
 Responsibilities:
 
@@ -23,7 +23,7 @@ Requirements:
 * Experience collaborating with cross-functional teams and managing stakeholder expectations
 * Passion for technology and a deep understanding of user behavior and psychology
 
-If you are a results-driven product manager with a passion for designing viral systems and a deep understanding of overseas application development, we encourage you to apply.
+If you are a results-driven product manager who is passionate about designing viral systems and has a deep understanding of overseas application development, we encourage you to apply.
 
 Resume submission: rick@myshell.ai; Telegram: @x64rick
 
