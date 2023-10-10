@@ -1,6 +1,6 @@
-# Robot Definition
+# Definition
 
-On the "Definition" page, you can create a robot by editing the "Robot Definition" (Prompt).
+On the "Definition" page, you can create a robot by editing "Bot Definition" (Prompt).
 
 To make the robot perform as expected, you usually need to:
 
@@ -14,13 +14,13 @@ However, with MyShell's powerful Auto-prompt and rich community support, the thr
 
 ***
 
-## Auto-write
+## Auto-Crafting
 
-Click the "Auto-write" button to go to the corresponding panel. You only need to enter an extremely short description to get a complete definition (prompt) and its associated content.
+Click the "Auto-Crafting" button to go to the corresponding panel. You only need to enter an extremely short description to get a complete definition (prompt) and its associated content.
 
 Some examples that can be used for automatic generation are as follows:
 
-* Character class
+* Character&#x20;
 
 {% hint style="success" %}
 Name: Rick Sanchez
@@ -28,7 +28,7 @@ Name: Rick Sanchez
 Description: Rick Sanchez in R\&M
 {% endhint %}
 
-* Game class
+* Game&#x20;
 
 {% hint style="success" %}
 Name: ExplorationRPG
@@ -36,7 +36,7 @@ Name: ExplorationRPG
 Description: RPG Game, act as an astronaut landing on an unknown planet.
 {% endhint %}
 
-* Tool class
+* Tool&#x20;
 
 {% hint style="success" %}
 Name: JPTranslator

@@ -1,8 +1,8 @@
-# Sound
+# Voice
 
 The sound settings allow your robot to "talk" to others using the voice you like. It is on by default, but you can turn off the sound switch to make the robot reply with pure text messages.
 
-### Quick Voice Cloning
+### Instant Voice Cloning
 
 Upload an audio file that is 20 seconds to 3 minutes long, and you can clone anyone's voice. The current version only supports cloning English voices. Accent, speed, emotion cloning, and more language cloning will be available soon!
 
@@ -15,4 +15,4 @@ After the cloning is completed, you can listen to it. We provide feedback links 
 
 ### Voice List
 
-We have prepared public voice samples in English, Chinese, Japanese, French, Russian, Portuguese, Arabic, Spanish, and German. You can choose your favorite voice to listen to the sound effect. Listening to the default text does not consume power. If you want to listen to custom text, it will consume ⚡️1. Repeated listening will not consume power.
+We have prepared public voice samples in English, Chinese, Japanese, French, Russian, Portuguese, Arabic, Spanish, and German. You can choose your favorite voice to try out the sound effect. Listening to the default text does not consume battery. If you want to listen to custom text, it will consume ⚡️1. Repeated listening will not consume battery.
