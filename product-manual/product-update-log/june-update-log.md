@@ -42,10 +42,10 @@
 
 ### 20230607
 
-* Support for trial use as a guest. Even without logging in, you can now get 10 units of electricity, further lowering the threshold for inviting new users!
+* Support for trial use as a guest, even without logging in, you can still get 10 electricity points. The threshold for inviting new users has been further lowered!
 * A brand new UI redesign is underway...
 
 ### 20230601
 
 * The Bot Workshop now supports filtering for bots that have Telegram!
-* At the same time, the bot details page now shows the corresponding Telegram Bot name and has a link for direct access!
+* At the same time, the bot details page can directly display the name of the corresponding Telegram Bot and provide a link for direct access!

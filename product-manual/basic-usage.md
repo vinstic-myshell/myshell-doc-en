@@ -15,7 +15,7 @@ At the same time, the lightweight demo can also experience the basic Q&A functio
 
 MyShell provides multiple registration methods. Users can register through Web3 wallets, Web2 account systems, or directly through email and verification codes.
 
-After successful registration through non-Web3 methods, the system will automatically assign an ETH hosted wallet to the registered user.
+After successful registration through non-Web3 methods, the system will automatically assign an ETH hosting wallet to the registered user.
 
 #### Language Bot Conversation
 

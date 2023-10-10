@@ -8,13 +8,13 @@ The knowledge base is like an external brain for robots, providing them with kno
 
 * Access to project/product documentation for precise Q&A.
 * Access to academic literature to become a domain expert.
-* Access to blogs/tweets to build a digital life.
+* Access to blogs/tweets to build digital life.
 * Access to game/animation wikis for high-precision role-playing.
-* ...and more application scenarios as you can imagine!
+* ...more application scenarios for you to imagine!
 
 ## How to Use the Knowledge Base?
 
-In the robot's editing page, go to the "Knowledge Base" panel in "Advanced Settings", turn on the knowledge base switch, and import the link to connect the robot to the knowledge base.
+In the robot's editing page, go to the "Knowledge Base" panel in "Advanced Settings", turn on the knowledge base switch, and import the link to connect the knowledge base to the robot.
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ When you import, the status will first show "Importing", indicating that the web
 
 After the import is successful, the status changes to green "Active", and you can use the knowledge base function normally!
 
-If the import fails and shows "Invalid", you need to check the validity of the input link. If you enter a Gitbook link, please check if the link you imported is publicly available first.
+If the import fails and shows "Invalid", you need to check the validity of the input link. If you enter a Gitbook link, please check if the link you imported is publicly available.
 
 ### Precautions for Using the Knowledge Base
 

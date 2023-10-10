@@ -25,7 +25,7 @@ Job Requirements:
 
 If you are passionate about social media operations and brand promotion, we look forward to your joining us.
 
-Resume submission: rick@myshell.ai; Telegram: @x64rick
+Resume delivery: rick@myshell.ai; Telegram: @x64rick
 
 ## Influencer Operations Manager
 
@@ -47,11 +47,11 @@ Job Requirements:
 * Excellent project management and organizational skills;
 * Able to work independently and collaborate with teams in a fast-paced environment;
 * Fluent in both spoken and written Chinese and English, familiar with ACG culture;
-* Frequent use of overseas social media.
+* High frequency use of overseas social media.
 
 If you are passionate about interpersonal communication, relationship building, and result-driven, we look forward to your joining us.
 
-Resume submission: rick@myshell.ai; Telegram: @x64rick
+Resume delivery: rick@myshell.ai; Telegram: @x64rick
 
 ## Channel Cooperation Manager
 
@@ -74,4 +74,4 @@ Job Requirements:
 * Able to work independently and collaborate with teams in a fast-paced environment;
 * Fluent in both spoken and written Chinese and English.
 
-Resume submission: rick@myshell.ai; Telegram: @x64rick
+Resume delivery: rick@myshell.ai; Telegram: @x64rick

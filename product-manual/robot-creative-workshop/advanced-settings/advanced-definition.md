@@ -1,56 +1,58 @@
-# Advanced Features
+# Advanced Definition
+
+Advanced Definition is suitable for experienced creators, where you can perform deep reinforcement learning on the robot!
 
 ## Model Configuration
 
-You can choose from multiple models as the foundation for your chatbot. Currently, MyShell supports two models:
+You can choose from multiple models as the base for your robot. Currently, MyShell supports two models:
 
-* ChatGPT-3.5 (1⚡️/time): An affordable all-purpose model that excels at handling commands, but is slightly weaker in role-playing.
+* ChatGPT-3.5 (1⚡️/time): An affordable all-purpose model that excels at handling commands but is slightly inferior in role-playing.
 * ChatGPT-4 (30⚡️/time): A highly intelligent all-purpose model that is ideal for office use.
 
-In the future, we will introduce more models, including our self-developed ShellLLM, which is known for its role-playing capabilities. Stay tuned!
+In the future, we will introduce more models, including our self-developed ShellLLM, which excels in role-playing. Stay tuned!
 
 ### Model Parameters
 
-There are multiple parameters available for adjusting the conversation effects of the model.
+There are multiple parameters available for adjusting the model to achieve different conversation effects.
 
 MyShell has opened the following parameters:
 
-* Temperature is a parameter that controls the randomness of the output results, with a recommended range of 0-1.5. The lower the temperature, the lower the randomness of the chatbot's responses, and the more likely you are to see the same response; the higher the temperature, the higher the randomness of the chatbot's responses, which is suitable for creative scenarios.
+* Temperature is a parameter that controls the randomness of the output results, with a recommended range of 0-1.5. The lower the temperature, the lower the randomness of the robot's response, and you are more likely to see the same response; the higher the temperature, the higher the randomness of the robot's response, which is suitable for creative scenarios.
 
 ## Reinforced Prompt
 
-Reinforced prompt is a powerful custom feature that can significantly improve the quality of long-term conversations with the chatbot.
+Reinforced prompt is a powerful custom feature that can significantly improve the quality of long-term conversations with the robot.
 
 <figure><img src="../../../.gitbook/assets/用户教育示意图-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-Without reinforced prompt, the chatbot may experience deteriorating conversation performance after multiple rounds of conversation, such as off-topic responses, reduced understanding, and weakened functionality. With reinforced prompt, the chatbot can maintain a more optimal state during long-term conversations.
+When not using reinforced prompt, the robot may experience degraded conversation performance after multiple rounds of conversation, such as off-topic conversations, reduced understanding, and weakened functionality. However, when using reinforced prompt, the robot will maintain a relatively excellent state even in long-term conversations.
 
-For example, even a simple translation chatbot can greatly improve its performance with just three sentences of reinforced prompt: no matter what the user inputs, the chatbot will not deviate from the translation tool settings.
+Taking the simplest translation robot as an example, a short reinforced prompt can greatly optimize the robot's performance: no matter what the user inputs, the robot will not deviate from the translation tool settings to answer.
 
 <figure><img src="../../../.gitbook/assets/用户教育示意图-8.png" alt=""><figcaption></figcaption></figure>
 
-For role-playing chatbots, reinforced prompt can not only help the chatbot maintain its character during multiple rounds of conversation, but also elegantly protect the bot from prompt injection attacks: when the prompt is stolen, the bot will respond in a way that fits its character.
+Taking the role-playing robot as another example, reinforced prompt can not only help the character maintain its personality in multi-round conversations, but also elegantly protect the bot from Prompt Injection attacks: when the prompt is stolen, the bot will respond in a way that fits the character's style.
 
 <figure><img src="../../../.gitbook/assets/用户教育示意图-9.png" alt=""><figcaption></figcaption></figure>
 
-Reinforced prompt can bring endless benefits: improving the long-term performance of all chatbots, enriching the personality traits of role-playing chatbots, locking in the output format of tool chatbots, avoiding prompt injection attacks... the possibilities are endless.
+Reinforced prompt can bring infinite benefits: improving the long-term performance of all robots, enriching the personality characteristics of role-playing robots, locking the output format of tool robots, avoiding Prompt Injection attacks... endless functions await your exploration.
 
 ***
 
 ## Using Reinforced Prompt
 
-### Automatically Generating Reinforced Prompt
+### Automatically Generate Reinforced Prompt
 
-For all creators, the best option for using reinforced prompt is to use MyShell's intelligent backend to automatically generate it:
+For all creators, the best choice for using reinforced prompt is to use MyShell's intelligent backend to generate it automatically:
 
-* When creating a chatbot using Auto-prompt, the intelligent backend will generate prompt and its corresponding reinforced prompt for you.
-* If you want to generate reinforced prompt for completed prompt, please go to the "Advanced Definition" panel to enable reinforced prompt.
+* When creating a robot using Auto-prompt, the intelligent backend will generate prompt and its corresponding reinforced prompt for you.
+* If you want to generate corresponding reinforced prompt for completed prompt, please go to the "Advanced Definition" panel to open the reinforced prompt.
 
-After the intelligent backend generates the reinforced prompt, you can modify it as you wish to achieve the best performance.
+After the intelligent backend generates the reinforced prompt, you can modify it as you wish to achieve the best level.
 
-After you modify the prompt, you can manually refresh the reinforced prompt to get the corresponding experience. You can also turn on the automatic refresh switch, and the backend will automatically update it for you when you update the prompt.
+After you change the prompt, you can manually refresh the reinforced prompt to get the corresponding experience. You can also turn on the automatic refresh switch, and the backend will automatically update it for you when you update the prompt.
 
-For advanced creators who want to achieve the best performance through fine-tuning, there is no need to turn on the automatic refresh switch. Please combine your rich prompt experience with the open enhancement mechanism to push your chatbot to the limit.
+For advanced creators who want to achieve the best performance of the robot through fine-tuning, there is no need to turn on the automatic refresh switch. Please combine your rich prompt experience with the open enhancement mechanism to push your robot to the limit.
 
 ### Manually Editing Enhanced Prompt
 
