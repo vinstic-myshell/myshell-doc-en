@@ -59,7 +59,7 @@ Major update: Reward Center and new membership system
 
 * MyShell point system is now online, and we will use the point season system to allow everyone to play and earn on the platform! The first season will start from July 1, 2023, at 0:00 (UTC-4) to July 15, 2023, at 23:59 (UTC-4). You can earn a lot of points by completing tasks in the first 12 days of the season. Although point redemption is not yet available, all task completion rates will be automatically recorded, and you can accumulate them when we open point redemption! 
 * When there are 3 days left in the season, we will open the point redemption mall. At the same time, the season points will no longer be available, and new points earned from completing tasks will accumulate for the next season. In the redemption mall, you can use points to redeem rich rewards, including power cards, our new membership cards, and even the Genesis Pass! 
-* New membership system: Basic Battle Pass, Standard Battle Pass, and Genesis Pass. The three types of members will have corresponding privileges (trial run stage, may change in the future); in S1 season, we will offer a free trial of the standard battle pass for the entire site. We hope that everyone can use the S1 free trial to earn more points and redeem more long-term privileges!
+* New membership system: Basic Battle Pass, Standard Battle Pass, and Genesis Pass. The three types of members will have corresponding privileges (trial run stage, may change in the future); in S1 season, we will offer a standard battle pass free trial for the entire site. We hope that everyone can use the S1 free trial to earn more points and redeem more long-term privileges!
 
 Other optimizations:
 

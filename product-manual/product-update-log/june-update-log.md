@@ -6,7 +6,7 @@
 * Featured Bot List is now open. We will regularly select some bots based on their stability, innovation, and popularity to be featured on the list. Being a featured bot will give your bot greater exposure! Keep improving your bot!
 * Creator Dashboard: Creators can now see the daily heat ranking of their bots on the dashboard, as well as the ranking trends at different times after June 27th. We also differentiate between the number of new friends invited by invitation codes and Telegram Bot invitations. You can also see the change curve of historical invitation numbers, which will help you better grasp the pace of promotion. (We will also open up rich reward channels in the next major version, so stay tuned!)
 * Bot creation now supports GPT-4. Friends with a Genesis Passcard can choose to use the GPT-4 model to take their bot's abilities to the next level!
-* Friends who converse with bots will now be notified when Prompt is updated, so they can clear the bot's memory in a timely manner to make the latest Prompt effective.
+* Friends who converse with bots will now be notified when the Prompt is updated, so they can clear the bot's memory in a timely manner to make the latest Prompt effective.
 * Bot public voice samples now support more language choices, including French, Russian, Portuguese, Arabic, Spanish, and German.
 
 ### 20230620
@@ -30,12 +30,12 @@
 
 **Other**
 
-* Fixed the issue of missing audio for specific text segments. Markdown-formatted text and emoji audio generation have been disabled.
+* Fixed the issue of specific text segments lacking audio. Markdown-formatted text and emoji audio generation have been disabled.
 
 ### 20230608
 
 * The bot creation tool, AutoPrompt, is now online. It can generate bots based on your language description. Its effect is at least equivalent to a normal person studying Prompt for more than 20 hours!
-* If you are an advanced player, we will open up generated prompts for everyone to further optimize based on them in next week's version.
+* If you are an advanced player, we will open up the generated prompts for everyone to further optimize based on them in next week's version.
 * You can now use Shift + Enter to line break in the text input box.
 * In group chat mode, Telegram BOT can now be conversed with by replying to the BOT's message.
 * The knowledge base has quietly been updated to support URL parsing (currently only for one layer of text). Please try it out first. If you encounter any unsolvable scenarios, please give us feedback. We will gradually improve this feature.
@@ -48,4 +48,4 @@
 ### 20230601
 
 * The Bot Workshop now supports filtering for bots that have Telegram!
-* At the same time, the bot details page can directly display the name of the corresponding Telegram Bot and provide a link for direct access!
+* At the same time, the bot details page can directly display the corresponding Telegram Bot's name and provide a link for direct access!
