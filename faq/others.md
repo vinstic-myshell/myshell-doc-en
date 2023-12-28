@@ -31,7 +31,7 @@ There are several ways to get the limited 10,000 MyShell Genesis Pass:
 
 #### What is an effective invitation? What are the benefits of effective invitations?
 
-Effective invitation is the most direct way of community contribution. When the community implements incentive measures, this indicator is usually given top priority. The score measurement of this contribution degree will be traced back to three layers after the effective invitation, so even if you do not have too many exposure channels, early invitations will always have some advantages. At the same time, the contribution of the invitation will also be traced back to the user's subsequent behavior, and more product and on-chain interactions will improve this.
+Effective invitation is the most direct way of community contribution. When the community implements incentive measures, this indicator is usually given top priority. The score measurement of this contribution degree will be traced back to three layers after the effective invitation, so even if you do not have too many exposure channels, early invitations will always have some advantages. At the same time, the contribution of invitations will also be traced back to users' subsequent behaviors, and more product and on-chain interactions will improve this.
 
 Effective invitation refers to the registered users you invite who have specific behavioral characteristics and are judged as effective invitations.
 
@@ -57,4 +57,4 @@ If you are using the system's built-in Safari browser, it is recommended that yo
 
 #### After entering two voice messages, it prompts that the voice cannot be collected. How to solve it?
 
-Please check if you are using an IOS device. Due to IOS's security policy issues, you need to regularly re-authorize the recording permission of the webpage. Please try to refresh the page and agree to authorize in the pop-up authorization notification. If the problem is still not resolved, it is recommended that you use it on the desktop version.
+Please check if you are using an IOS device. Due to IOS's security policy issues, you need to regularly re-authorize the recording permission of the webpage. Please try to refresh the page and agree to authorize in the pop-up authorization notification. If the problem is still not resolved, it is recommended that you use it on the desktop.

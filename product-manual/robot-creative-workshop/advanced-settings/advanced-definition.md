@@ -6,7 +6,7 @@ Advanced Definition is suitable for experienced creators, where you can perform 
 
 You can choose from multiple models as the base for your robot. Currently, MyShell supports two models:
 
-* ChatGPT-3.5 (1⚡️/time): An affordable all-purpose model that excels at handling commands but is slightly inferior in role-playing.
+* ChatGPT-3.5 (1⚡️/time): An affordable all-purpose model that excels at handling commands but is slightly weaker in role-playing.
 * ChatGPT-4 (30⚡️/time): A highly intelligent all-purpose model that is ideal for office use.
 
 In the future, we will introduce more models, including our self-developed ShellLLM, which excels in role-playing. Stay tuned!
@@ -17,7 +17,7 @@ There are multiple parameters available for adjusting the model to achieve diffe
 
 MyShell has opened the following parameters:
 
-* Temperature is a parameter that controls the randomness of the output results, with a recommended range of 0-1.5. The lower the temperature, the lower the randomness of the robot's response, and you are more likely to see the same response; the higher the temperature, the higher the randomness of the robot's response, which is suitable for creative scenarios.
+* Temperature is a parameter that controls the randomness of the output results, with a recommended range of 0-1.5. The lower the temperature, the lower the randomness of the robot's response, and you are more likely to see the same response; the higher the temperature, the higher the randomness of the robot's response, suitable for creative scenarios.
 
 ## Reinforced Prompt
 
@@ -25,9 +25,9 @@ Reinforced prompt is a powerful custom feature that can significantly improve th
 
 <figure><img src="../../../.gitbook/assets/用户教育示意图-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-When not using reinforced prompt, the robot may experience degraded conversation performance after multiple rounds of conversation, such as off-topic conversations, reduced understanding, and weakened functionality. However, when using reinforced prompt, the robot will maintain a relatively excellent state even in long-term conversations.
+When not using reinforced prompt, the robot may experience deteriorating conversation performance after multiple rounds of conversation, such as off-topic conversations, reduced understanding, and weakened functionality. However, when using reinforced prompt, the robot will maintain a relatively excellent state even in long-term conversations.
 
-Taking the simplest translation robot as an example, a short reinforced prompt can greatly optimize the robot's performance: no matter what the user inputs, the robot will not deviate from the translation tool settings to answer.
+Taking the simplest translation robot as an example, a short reinforced prompt of three sentences can greatly optimize the robot's performance: no matter what the user inputs, the robot will not deviate from the translation tool settings to answer.
 
 <figure><img src="../../../.gitbook/assets/用户教育示意图-8.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +35,7 @@ Taking the role-playing robot as another example, reinforced prompt can not only
 
 <figure><img src="../../../.gitbook/assets/用户教育示意图-9.png" alt=""><figcaption></figcaption></figure>
 
-Reinforced prompt can bring infinite benefits: improving the long-term performance of all robots, enriching the personality characteristics of role-playing robots, locking the output format of tool robots, avoiding Prompt Injection attacks... endless functions await your exploration.
+Reinforced prompt can bring infinite benefits: improving the long-term performance of all robots, enriching the personality traits of role-playing robots, locking the output format of tool robots, avoiding Prompt Injection attacks... endless functions await your exploration.
 
 ***
 
@@ -141,6 +141,6 @@ Different structures of reinforcement prompts will produce different effects.
 * Swap the positions of the specific instructions for the reinforcement prefix and suffix
 * ...more ways for you to explore
 
-Advanced creators are encouraged to try various structures and patiently adjust them until the ideal state is achieved.
+Please try different structures and patiently adjust them until you reach the ideal state, advanced creators.
 
-Wish you can use reinforcement prompts to create your ideal robot!
+Wish you can use reinforcement prompts to create ideal robots!

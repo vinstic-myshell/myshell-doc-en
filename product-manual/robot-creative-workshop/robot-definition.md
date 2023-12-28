@@ -1,6 +1,6 @@
-# Definition
+# Robot Definition
 
-On the "Definition" page, you can create a robot by editing "Bot Definition" (Prompt).
+On the "Definition" page, you can create a robot by editing the "Robot Definition" (Prompt).
 
 To make the robot perform as expected, you usually need to:
 
@@ -14,13 +14,13 @@ However, with MyShell's powerful Auto-prompt and rich community support, the thr
 
 ***
 
-## Auto-Crafting
+## Auto-write
 
-Click the "Auto-Crafting" button to go to the corresponding panel. You only need to enter an extremely short description to get a complete definition (prompt) and its associated content.
+Click the "Auto-write" button to go to the corresponding panel. You only need to enter an extremely short description to get a complete definition (prompt) and its associated content.
 
 Some examples that can be used for automatic generation are as follows:
 
-* Character&#x20;
+* Character class
 
 {% hint style="success" %}
 Name: Rick Sanchez
@@ -28,7 +28,7 @@ Name: Rick Sanchez
 Description: Rick Sanchez in R\&M
 {% endhint %}
 
-* Game&#x20;
+* Game class
 
 {% hint style="success" %}
 Name: ExplorationRPG
@@ -36,7 +36,7 @@ Name: ExplorationRPG
 Description: RPG Game, act as an astronaut landing on an unknown planet.
 {% endhint %}
 
-* Tool&#x20;
+* Tool class
 
 {% hint style="success" %}
 Name: JPTranslator
@@ -44,7 +44,7 @@ Name: JPTranslator
 Description: Do not respond at all, translate all input content elegantly and accurately into Japanese
 {% endhint %}
 
-When you successfully generate it, you will get a complete definition, tags, greetings, robot introduction, tags, and enhanced prompts.\
+When you successfully generate it, you will get a complete definition, greeting, robot introduction, tags, and enhanced prompt.\
 You can adjust the generated text content as you like to achieve the best performance of the robot.
 
 If you encounter any problems when using Auto-write, you can seek help from MyShell's [Discord](https://discord.gg/myshellzh) server, where active community users will help you solve the problem.
@@ -55,9 +55,9 @@ There are many treasures in MyShell's [Discord](https://discord.gg/myshellzh) se
 
 Here are a few examples of posts that have open-sourced all configurations:
 
-* [TheBestTranslator](https://app.myshell.ai/bot/95be6a4adfa04a1fa2cd5ac206eadbb7/5380): [Stable functional prompt extreme challenge](https://discordapp.com/channels/1085985874086469775/1144300682191581315).
-* [Emma | CEFR A2](https://app.myshell.ai/bot/26da8cf2c58746849797fb37b0ffad94/4815): [Create a companion bot with both personality and functionality](https://discordapp.com/channels/1085985874086469775/1156169173152571472).
-* [Serena](https://app.myshell.ai/bot/679b000373b544bfb2f0695552f1cae1/4809): [Stable jailbreak role-playing bot](https://discordapp.com/channels/1085985874086469775/1143939796297850931).
+* [TheBestTranslator](https://app.myshell.ai/bot/95be6a4adfa04a1fa2cd5ac206eadbb7/5380): [The Ultimate Challenge of Stable Function Prompt](https://discordapp.com/channels/1085985874086469775/1144300682191581315).
+* [Emma | CEFR A2](https://app.myshell.ai/bot/26da8cf2c58746849797fb37b0ffad94/4815): [Create a companion bot with both personality and function](https://discordapp.com/channels/1085985874086469775/1156169173152571472).
+* [Serena](https://app.myshell.ai/bot/679b000373b544bfb2f0695552f1cae1/4809): [Stable Jailbreak Role Bot](https://discordapp.com/channels/1085985874086469775/1143939796297850931).
 
 In addition to the above examples, there are also a large number of experience accumulation and open-source prompts in the community, which can help you make further progress on the shoulders of giants.
 

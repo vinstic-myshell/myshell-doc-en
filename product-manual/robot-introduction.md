@@ -62,6 +62,6 @@ Take the time of a cup of coffee to easily record your ideas and viewpoints, cap
 
 #### MotivateMe
 
-Here you can vent your troubles and find solutions; what to do when you're feeling emotional? Come here to save all your depression, decadence, and unhappiness, and make your life better!
+Here you can vent your troubles and find solutions; what to do when you're feeling emo? Come here to save all your depression, decadence, and unhappiness, and make your life better!
 
 ####
