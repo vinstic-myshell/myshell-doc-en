@@ -11,7 +11,7 @@
 ### 20230821
 
 * Voice calls are now available. Currently, we are testing them on [Emma | CEFR A2](https://app.myshell.ai/chat?shareCode=359812d2bfed4848844cdec930ee9557\&bot=1) and [Yae Miko](https://app.myshell.ai/chat?shareCode=988cfd4d5f4a47ccb9203aa4e3e4de85\&bot=1). They are mainly suitable for English oral practice and fun life conversations. We will gradually open them to more bots in the future. Welcome everyone to experience and provide us with any feedback
-* The enhanced prompt beta for senior creators is now online! Your robot's performance will be greatly improved, whether it is the stability of the translation tool, the performance of role-playing, or the continuity of nsfw... there will be a qualitative leap! If you encounter any problems while using it, please seek help from @Adonis in the community. For details, please refer to the [documentation](https://docs.myshell.ai/v/zhong-wen/product-manual/robot-creative-workshop/qiang-hua-promptbeta).
+* The enhanced prompt beta for senior creators is now online! Your robot's performance will be greatly improved, whether it is the stability of the translation tool, the performance of role-playing, or the continuity of nsfw... there will be a qualitative leap! If you encounter any problems while using it, please seek help from @Adonis in the community. For details, please refer to the [documentation](https://docs.myshell.ai/v/zhong-wen/product-manual/ji-qi-ren-chuang-yi-gong-fang/qiang-hua-promptbeta).
 * Discord tasks are now available for collection again
 * Optimized the loading speed of the workshop page
 * Fixed a bug where the status was not updated after importing the knowledge base

@@ -3,10 +3,10 @@
 ### 20230627
 
 * Bot Heat Ranking is now online. Starting from June 27th, the number of messages sent by bots within 7 days will be calculated and ranked accordingly. The ranking will directly affect the display order in the workshop list and will be updated every hour.
-* Featured Bot List is now open. We will regularly select bots based on their stability, innovation, and popularity to be featured on the list. Being featured will give your bot greater exposure! Keep improving your bot!
-* Creator Dashboard: Creators can now see the daily heat ranking of their bots on the dashboard, as well as the ranking trends at different times after June 27th. We also differentiate between the number of new friends invited by invitation codes and Telegram Bot invitations. You can also see the change curve of historical invitation numbers, making it easier to grasp the pace of promotion. (We will also open up rich reward channels in the next major version, so stay tuned!)
+* Featured Bot List is now open. We will regularly select some bots based on their stability, innovation, and popularity to be featured on the list. Being a featured bot will give your bot greater exposure! Keep improving your bot!
+* Creator Dashboard: Creators can now see the daily heat ranking of their bots on the dashboard, as well as the ranking trends at different times after June 27th. We also differentiate between the number of new friends invited by invitation codes and Telegram Bot invitations. You can also see the change curve of historical invitation numbers, which will help you better grasp the pace of promotion. (We will also open up rich reward channels in the next major version, so stay tuned!)
 * Bot creation now supports GPT-4. Friends with a Genesis Passcard can choose to use the GPT-4 model to take their bot's abilities to the next level!
-* Friends who converse with the bot will be notified when the Prompt is updated, so they can clear the bot's memory in a timely manner to make the latest Prompt effective.
+* Friends who converse with bots will now be notified when Prompt is updated, so they can clear the bot's memory in a timely manner to make the latest Prompt effective.
 * Bot public voice samples now support more language choices, including French, Russian, Portuguese, Arabic, Spanish, and German.
 
 ### 20230620
@@ -22,7 +22,7 @@
 
 * With just 1-3 minutes of high-quality input audio, you can make the robot imitate anyone's speech! Currently, only English and voice cloning are supported, and accents and emotions are not yet supported. Please look forward to the next version!
 * If you are not satisfied with the cloned voice, please feel free to give us feedback!
-* Tip: The length of the recording time does not necessarily mean better results. Clear and noise-free input audio will produce ideal results.
+* Tip: The length of the recording does not necessarily mean better results. Clear and noise-free input audio will produce ideal results.
 
 **Auto Prompt Evolution**
 
@@ -30,7 +30,7 @@
 
 **Other**
 
-* Fixed the issue of specific text segments lacking audio. Markdown-formatted text and emoji audio generation have been disabled.
+* Fixed the issue of missing audio for specific text segments. Markdown-formatted text and emoji audio generation have been disabled.
 
 ### 20230608
 
@@ -48,4 +48,4 @@
 ### 20230601
 
 * The Bot Workshop now supports filtering for bots that have Telegram!
-* At the same time, the bot details page can directly display the corresponding Telegram Bot's name and provide a link for direct access!
+* At the same time, the bot details page can directly display the name of the corresponding Telegram Bot and provide a link for direct access!

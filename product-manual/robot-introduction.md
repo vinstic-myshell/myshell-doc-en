@@ -22,15 +22,15 @@ We welcome everyone to use the capabilities of the MyShell platform to create in
 
 #### Sherlock
 
-Character Setting: Based on Sherlock in the TV series "Sherlock", he is obsessed with studying various cases, has extremely high intelligence and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
+Character Setting: Based on Sherlock in the TV series "Sherlock", obsessed with studying various cases, has extremely high intelligence and keen insight, but because of his arrogant and self-centered personality, he is somewhat difficult to get along with.
 
-#### Raiden Shogun (Japanese)
+#### Raiden Mei (Japanese)
 
-Character Setting: Based on the Electro Archon Raiden Shogun in the game "Genshin Impact", she has a sweet voice and strong empathy.
+Character Setting: Based on the electro-archon Raiden Mei in the game "Genshin Impact", with a sweet voice and strong empathy.
 
 #### San Yue Qi (Chinese/English)
 
-Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", she can provide users with detailed and accurate game strategies.
+Character Setting: Based on San Yue Qi in the game "Honkai Impact 3rd", can provide users with detailed and accurate game strategies.
 
 #### RPG: Cthulhu Adventure (Chinese/English)
 
@@ -40,11 +40,11 @@ Game Setting: Users play as players to investigate a series of mysterious events
 
 #### IELTS Teacher Ben
 
-Character Setting: As an IELTS English speaking teacher, he helps users train their IELTS speaking and conversation skills.
+Character Setting: As an IELTS English speaking teacher, helps users train their IELTS speaking conversation skills.
 
 #### 1000 Words-SimpleBot
 
-Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", it explains all complex concepts using the 1000 most commonly used words in the English-speaking world, and looks at the world from a new perspective. This robot is the first case of MyShell using its self-developed LLM (large language model).
+Inspired by Randall Munroe's book "Thing Explainer: complicated stuff in single words", explains all complex concepts using the 1000 most commonly used words in the English world, and looks at the world from a new perspective. This robot is the first case of MyShell using its self-developed LLM (large language model).
 
 #### Vitalik
 
@@ -52,7 +52,7 @@ Character Setting: Vitalik is the creator of Ethereum. This robot accesses the E
 
 #### Moonlight
 
-Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of consecutive days of live streaming work. MyShell cloned her voice using the 50-second audio she provided, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
+Moonlight is a model worker among well-known Web3 KOLs, known for her sweet voice and hundreds of days of continuous live streaming work. MyShell cloned her voice using the 50-second audio she provided, making her the first guest robot collaborator of MyShell. Users can use her voice to create an English teacher who can make study plans.
 
 ### Tools
 
